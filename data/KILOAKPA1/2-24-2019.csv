@@ -1,0 +1,30 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,46 F,46 F,100 %,SSW,10 mph,0 mph,28.6 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+1,8:53 PM,44 F,44 F,100 %,SSW,8 mph,0 mph,28.6 in,0.0 in,0.0 in,Mostly Cloudy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+2,9:53 PM,45 F,43 F,93 %,SW,15 mph,26 mph,28.6 in,0.0 in,0.0 in,Light Rain,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+3,10:10 PM,45 F,43 F,93 %,SW,14 mph,26 mph,28.6 in,0.0 in,0.0 in,Light Rain,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+4,10:53 PM,43 F,40 F,89 %,WSW,26 mph,46 mph,28.6 in,0.0 in,0.0 in,Light Rain / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+5,11:29 PM,42 F,38 F,85 %,WSW,32 mph,52 mph,28.6 in,0.0 in,0.0 in,Light Rain / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+6,11:53 PM,37 F,33 F,86 %,W,25 mph,49 mph,28.6 in,0.0 in,0.0 in,Light Rain / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+7,12:53 AM,34 F,30 F,85 %,W,30 mph,44 mph,28.7 in,0.0 in,0.0 in,Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+8,1:53 AM,34 F,29 F,82 %,W,24 mph,41 mph,28.7 in,0.0 in,0.0 in,Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+9,2:53 AM,34 F,26 F,73 %,W,31 mph,53 mph,28.8 in,0.0 in,0.0 in,Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+10,3:53 AM,32 F,25 F,75 %,W,26 mph,44 mph,28.9 in,0.0 in,0.0 in,Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+11,4:53 AM,30 F,23 F,75 %,W,30 mph,49 mph,28.9 in,0.0 in,0.0 in,Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+12,5:53 AM,28 F,19 F,69 %,W,35 mph,48 mph,29.0 in,0.0 in,0.0 in,Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+13,6:53 AM,27 F,19 F,72 %,W,37 mph,49 mph,29.0 in,0.0 in,0.0 in,Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+14,7:53 AM,30 F,18 F,61 %,W,32 mph,48 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+15,8:26 AM,30 F,18 F,61 %,W,31 mph,49 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+16,8:53 AM,29 F,17 F,61 %,W,26 mph,44 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+17,9:43 AM,28 F,16 F,61 %,W,35 mph,53 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+18,9:53 AM,28 F,16 F,61 %,W,38 mph,51 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+19,10:53 AM,26 F,14 F,60 %,W,30 mph,55 mph,29.2 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+20,11:27 AM,26 F,14 F,60 %,W,31 mph,52 mph,29.2 in,0.0 in,0.0 in,Partly Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+21,11:53 AM,25 F,13 F,60 %,W,33 mph,49 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+22,12:53 PM,23 F,12 F,63 %,W,23 mph,46 mph,29.3 in,0.0 in,0.0 in,Fair / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+23,1:53 PM,21 F,11 F,65 %,W,29 mph,43 mph,29.3 in,0.0 in,0.0 in,Fair / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+24,2:53 PM,20 F,10 F,65 %,W,28 mph,47 mph,29.4 in,0.0 in,0.0 in,Fair / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+25,3:53 PM,18 F,8 F,65 %,W,22 mph,36 mph,29.4 in,0.0 in,0.0 in,Fair / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+26,4:53 PM,17 F,6 F,62 %,W,23 mph,40 mph,29.4 in,0.0 in,0.0 in,Fair / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+27,5:53 PM,15 F,3 F,59 %,W,24 mph,43 mph,29.4 in,0.0 in,0.0 in,Fair / Windy,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019
+28,6:53 PM,14 F,1 F,56 %,W,17 mph,40 mph,29.5 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-24-2019

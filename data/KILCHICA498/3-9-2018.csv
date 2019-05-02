@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,39,44,69,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+1,Low Temp,23,29,3,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+2,Day Average Temp,31,36,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+3,Precipitation,0,0.08,1.41,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+4,Month to Date,0.65,0.77,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+5,Year to Date,5.94,4.77,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+6,Heating Degree Days,34,29,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+7,HDD Month to Date,260,272,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+8,HDD Since July 1,4551,4783,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+9,Cooling Degree Days,0,0,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+10,CDD Month to Date,0,0,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+11,CDD Year to Date,0,0,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+12,Growing Degree Days,0,-,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+13,Dew Point,17,-,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+14,High,21,-,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+15,Low,14,-,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+16,Average,17,-,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+17,Max Wind Speed,15,-,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+18,Visibility,10,-,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+19,Sea Level Pressure,30.08,-,-,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+20,Actual Time,11h 37m,6:14 AM,5:51 PM,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+21,Civil Twilight,,5:46 AM,6:18 PM,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+22,Nautical Twilight,,5:13 AM,6:51 PM,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+23,Astronomical Twilight,,4:41 AM,7:23 PM,,41.88,-87.68,United Center,KILCHICA498,3-9-2018
+24,Moon: waning gibbous,,1:57 AM,11:53 AM,,41.88,-87.68,United Center,KILCHICA498,3-9-2018

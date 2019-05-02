@@ -1,0 +1,49 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:13 PM,22 F,19 F,89 %,ESE,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+1,7:53 PM,22 F,20 F,92 %,ESE,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+2,8:03 PM,23 F,20 F,88 %,E,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+3,8:51 PM,25 F,21 F,86 %,E,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+4,8:53 PM,24 F,21 F,88 %,E,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+5,9:38 PM,24 F,22 F,91 %,E,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+6,9:53 PM,25 F,23 F,92 %,E,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+7,10:08 PM,25 F,23 F,92 %,E,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+8,10:17 PM,25 F,23 F,92 %,E,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+9,10:53 PM,26 F,24 F,92 %,E,6 mph,0 mph,29.5 in,0.1 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+10,11:21 PM,26 F,24 F,92 %,E,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+11,11:37 PM,26 F,24 F,92 %,E,6 mph,0 mph,29.5 in,0.1 in,0.0 in,Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+12,11:53 PM,26 F,25 F,96 %,E,7 mph,0 mph,29.4 in,0.1 in,0.0 in,Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+13,12:53 AM,26 F,25 F,96 %,NNE,7 mph,0 mph,29.4 in,0.1 in,0.3 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+14,1:53 AM,26 F,24 F,92 %,NNE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+15,2:06 AM,26 F,24 F,92 %,N,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+16,2:26 AM,26 F,25 F,96 %,NNE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+17,2:53 AM,27 F,25 F,92 %,NE,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+18,3:35 AM,27 F,26 F,96 %,N,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+19,3:44 AM,28 F,26 F,92 %,NNE,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+20,3:53 AM,28 F,26 F,92 %,NNE,5 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+21,4:08 AM,28 F,25 F,88 %,N,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+22,4:45 AM,29 F,26 F,89 %,N,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+23,4:53 AM,29 F,26 F,89 %,N,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+24,5:20 AM,29 F,26 F,89 %,N,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+25,5:53 AM,29 F,26 F,89 %,NNE,15 mph,0 mph,29.5 in,0.0 in,0.0 in,Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+26,6:27 AM,28 F,25 F,88 %,NNE,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+27,6:53 AM,28 F,25 F,88 %,NNE,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+28,7:53 AM,27 F,25 F,92 %,NNE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+29,8:30 AM,28 F,25 F,88 %,NE,13 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+30,8:33 AM,28 F,24 F,85 %,NNE,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+31,8:53 AM,27 F,24 F,89 %,NNE,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+32,9:28 AM,27 F,23 F,85 %,NNE,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+33,9:44 AM,28 F,22 F,78 %,N,17 mph,23 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+34,9:53 AM,28 F,22 F,78 %,NNE,15 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+35,10:53 AM,27 F,22 F,81 %,NNE,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+36,11:53 AM,28 F,21 F,75 %,NNE,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+37,12:13 PM,27 F,21 F,78 %,NNE,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+38,12:53 PM,27 F,22 F,81 %,N,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+39,1:39 PM,26 F,22 F,84 %,N,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+40,1:53 PM,25 F,22 F,88 %,N,15 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+41,2:53 PM,25 F,21 F,85 %,N,15 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+42,3:53 PM,23 F,19 F,85 %,N,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+43,4:53 PM,22 F,17 F,82 %,N,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+44,5:40 PM,22 F,17 F,82 %,N,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+45,5:53 PM,22 F,17 F,82 %,N,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+46,6:03 PM,22 F,17 F,82 %,N,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018
+47,6:53 PM,22 F,17 F,82 %,N,15 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.89,-87.69,Ukranian Village,KILCHICA535,2-9-2018

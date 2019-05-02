@@ -1,0 +1,21 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,46.0,39,64,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+1,Low Temp,14.0,24,-5,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+2,Day Average Temp,30.0,32,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+3,Precipitation,0.01,0.08,1.36,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+4,Month to Date,1.83,1.6,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+5,Year to Date,2.93,3.66,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+6,Heating Degree Days,35.0,33,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+7,HDD Month to Date,877.0,883,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+8,HDD Since July 1,4455.0,4379,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+9,Cooling Degree Days,0.0,0,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+10,CDD Month to Date,0.0,0,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+11,CDD Year to Date,0.0,0,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+12,Growing Degree Days,0.0,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+13,Dew Point,22.0,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+14,High,46.0,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+15,Low,1.0,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+16,Average,22.0,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+17,Max Wind Speed,40.0,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+18,Visibility,10.0,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019
+19,Sea Level Pressure,30.2,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-24-2019

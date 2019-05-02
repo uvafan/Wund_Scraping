@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,77,81,98,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+1,Low Temp,66,64,43,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+2,Day Average Temp,72,73,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+3,Precipitation,0.42,0.12,2.02,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+4,Month to Date,2.93,3.74,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+5,Year to Date,24.73,26.3,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+6,Heating Degree Days,0,0,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+7,HDD Month to Date,0,0,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+8,HDD Since July 1,0,1,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+9,Cooling Degree Days,7,8,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+10,CDD Month to Date,378,272,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+11,CDD Year to Date,1152,894,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+12,Growing Degree Days,22,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+13,Dew Point,66,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+14,High,69,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+15,Low,59,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+16,Average,66,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+17,Max Wind Speed,29,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+18,Visibility,10,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+19,Sea Level Pressure,30.15,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+20,Actual Time,13h 16m,6:14 AM,7:31 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+21,Civil Twilight,,5:45 AM,8:00 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+22,Nautical Twilight,,5:11 AM,8:34 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+23,Astronomical Twilight,,4:34 AM,9:11 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018
+24,Moon: waning gibbous,,9:23 PM,9:08 AM,,41.91,-87.64,Lincoln Park,KILCHICA516,8-29-2018

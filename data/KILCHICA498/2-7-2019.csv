@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,46,33,59,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+1,Low Temp,11,20,-5,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+2,Day Average Temp,29,27,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+3,Precipitation,0.42,0.06,0.67,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+4,Month to Date,0.74,0.39,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+5,Year to Date,1.84,2.45,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+6,Heating Degree Days,36,38,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+7,HDD Month to Date,234,273,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+8,HDD Since July 1,3812,3769,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+9,Cooling Degree Days,0,0,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+10,CDD Month to Date,0,0,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+11,CDD Year to Date,0,0,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+12,Growing Degree Days,0,-,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+13,Dew Point,30,-,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+14,High,46,-,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+15,Low,3,-,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+16,Average,30,-,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+17,Max Wind Speed,36,-,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+18,Visibility,10,-,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+19,Sea Level Pressure,30.1,-,-,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+20,Actual Time,10h 15m,6:58 AM,5:13 PM,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+21,Civil Twilight,,6:29 AM,5:43 PM,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+22,Nautical Twilight,,5:56 AM,6:16 PM,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+23,Astronomical Twilight,,5:23 AM,6:48 PM,,41.88,-87.68,United Center,KILCHICA498,2-7-2019
+24,Moon: waxing crescent,,9:35 AM,8:59 PM,,41.88,-87.68,United Center,KILCHICA498,2-7-2019

@@ -1,0 +1,46 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,51 F,46 F,83 %,NE,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+1,8:53 PM,50 F,45 F,83 %,NNE,5 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+2,9:53 PM,51 F,46 F,83 %,NNE,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+3,10:53 PM,52 F,47 F,83 %,NE,5 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+4,11:53 PM,52 F,49 F,89 %,NE,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+5,12:53 AM,52 F,49 F,89 %,NNE,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+6,1:40 AM,51 F,49 F,92 %,NNE,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Rain with Thunder,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+7,1:53 AM,51 F,49 F,92 %,W,17 mph,23 mph,29.5 in,0.0 in,0.1 in,Light Rain with Thunder,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+8,1:59 AM,52 F,50 F,93 %,NNE,9 mph,22 mph,29.5 in,0.1 in,0.0 in,Heavy T-Storm,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+9,2:22 AM,53 F,53 F,100 %,ENE,6 mph,0 mph,29.5 in,0.4 in,0.0 in,Heavy T-Storm,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+10,2:40 AM,54 F,53 F,97 %,ENE,8 mph,0 mph,29.5 in,0.4 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+11,2:53 AM,55 F,54 F,96 %,E,7 mph,0 mph,29.5 in,0.4 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+12,2:59 AM,55 F,53 F,93 %,ESE,7 mph,0 mph,29.5 in,0.1 in,0.0 in,Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+13,3:42 AM,55 F,55 F,100 %,ENE,10 mph,0 mph,29.4 in,0.3 in,0.0 in,Heavy Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+14,3:46 AM,56 F,55 F,97 %,ENE,13 mph,0 mph,29.4 in,0.3 in,0.0 in,Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+15,3:53 AM,56 F,55 F,97 %,ENE,14 mph,0 mph,29.4 in,0.3 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+16,4:18 AM,57 F,56 F,96 %,E,14 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+17,4:23 AM,57 F,56 F,96 %,ENE,14 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+18,4:53 AM,56 F,56 F,100 %,E,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+19,5:25 AM,57 F,56 F,96 %,E,14 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+20,5:53 AM,59 F,58 F,96 %,WNW,9 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+21,6:13 AM,57 F,57 F,100 %,N,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+22,6:53 AM,57 F,57 F,100 %,NNW,5 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+23,7:53 AM,58 F,58 F,100 %,NE,3 mph,0 mph,29.4 in,0.1 in,0.0 in,Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+24,8:13 AM,58 F,58 F,100 %,ENE,3 mph,0 mph,29.4 in,0.1 in,0.0 in,Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+25,8:26 AM,59 F,58 F,96 %,ENE,7 mph,0 mph,29.4 in,0.1 in,0.0 in,Heavy Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+26,8:53 AM,59 F,59 F,100 %,VAR,5 mph,0 mph,29.4 in,0.2 in,0.0 in,Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+27,9:31 AM,61 F,61 F,100 %,ESE,6 mph,0 mph,29.4 in,0.1 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+28,9:53 AM,62 F,61 F,96 %,E,6 mph,0 mph,29.4 in,0.1 in,0.0 in,Fog,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+29,10:00 AM,62 F,61 F,96 %,E,5 mph,0 mph,29.4 in,0.0 in,0.0 in,Fog,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+30,10:40 AM,63 F,62 F,97 %,E,7 mph,0 mph,29.3 in,0.1 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+31,10:53 AM,62 F,62 F,100 %,E,6 mph,0 mph,29.3 in,0.1 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+32,11:53 AM,63 F,62 F,97 %,NE,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+33,12:53 PM,64 F,62 F,93 %,VAR,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Rain,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+34,1:16 PM,64 F,62 F,93 %,NE,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+35,1:53 PM,64 F,62 F,93 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+36,2:34 PM,65 F,61 F,87 %,NNE,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+37,2:53 PM,64 F,61 F,90 %,NNE,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+38,3:31 PM,63 F,61 F,93 %,N,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+39,3:50 PM,63 F,61 F,94 %,N,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+40,3:53 PM,62 F,61 F,96 %,N,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+41,4:53 PM,60 F,59 F,96 %,N,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+42,5:30 PM,59 F,58 F,96 %,N,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+43,5:53 PM,58 F,58 F,100 %,NE,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018
+44,6:53 PM,58 F,57 F,97 %,N,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.83,-87.63,Ilinois Tech,KILCHICA534,5-21-2018

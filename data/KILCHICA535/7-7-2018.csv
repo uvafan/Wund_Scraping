@@ -1,0 +1,21 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,81.0,85,102,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+1,Low Temp,63.0,67,48,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+2,Day Average Temp,72.0,76,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+3,Precipitation,0.0,0.13,1.3,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+4,Month to Date,0.68,0.81,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+5,Year to Date,20.54,19.36,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+6,Heating Degree Days,0.0,0,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+7,HDD Month to Date,0.0,0,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+8,HDD Since July 1,0.0,0,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+9,Cooling Degree Days,7.0,11,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+10,CDD Month to Date,98.0,75,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+11,CDD Year to Date,497.0,359,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+12,Growing Degree Days,22.0,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+13,Dew Point,52.0,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+14,High,61.0,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+15,Low,37.0,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+16,Average,52.0,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+17,Max Wind Speed,14.0,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+18,Visibility,10.0,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018
+19,Sea Level Pressure,30.38,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-7-2018

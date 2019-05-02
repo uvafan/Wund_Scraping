@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,79,76,98,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+1,Low Temp,60,58,37,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+2,Day Average Temp,70,67,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+3,Precipitation,1e-16,0.15,1.15,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+4,Month to Date,0.54,0.44,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+5,Year to Date,12.8,14.93,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+6,Heating Degree Days,0,2,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+7,HDD Month to Date,1,8,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+8,HDD Since July 1,5884,5967,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+9,Cooling Degree Days,5,0,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+10,CDD Month to Date,7,8,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+11,CDD Year to Date,171,82,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+12,Growing Degree Days,20,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+13,Dew Point,54,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+14,High,61,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+15,Low,48,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+16,Average,54,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+17,Max Wind Speed,28,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+18,Visibility,10,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+19,Sea Level Pressure,29.95,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+20,Actual Time,15h 3m,5:18 AM,8:21 PM,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+21,Civil Twilight,,4:44 AM,8:55 PM,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+22,Nautical Twilight,,4:01 AM,9:38 PM,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+23,Astronomical Twilight,,3:11 AM,10:29 PM,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018
+24,Moon: waxing crescent,,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,6-3-2018

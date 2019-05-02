@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,29,35,61,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+1,Low Temp,4,21,-10,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+2,Day Average Temp,17,28,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+3,Precipitation,0,0.07,0.5,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+4,Month to Date,0.88,0.72,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+5,Year to Date,1.79,2.78,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+6,Heating Degree Days,48,37,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+7,HDD Month to Date,553,461,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+8,HDD Since July 1,3882,3957,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+9,Cooling Degree Days,0,0,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+10,CDD Month to Date,0,0,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+11,CDD Year to Date,0,0,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+12,Growing Degree Days,0,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+13,Dew Point,7,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+14,High,15,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+15,Low,3,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+16,Average,7,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+17,Max Wind Speed,13,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+18,Visibility,10,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+19,Sea Level Pressure,30.83,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+20,Actual Time,10h 28m,6:51 AM,5:20 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+21,Civil Twilight,,6:23 AM,5:49 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+22,Nautical Twilight,,5:50 AM,6:22 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+23,Astronomical Twilight,,5:17 AM,6:54 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018
+24,Moon: waning crescent,,5:46 AM,3:32 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,2-12-2018

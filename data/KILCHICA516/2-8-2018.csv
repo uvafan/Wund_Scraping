@@ -1,0 +1,32 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,12 F,4 F,70 %,WSW,9 mph,0 mph,29.8 in,0.0 in,0.0 in,Partly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+1,8:53 PM,9 F,4 F,80 %,WSW,8 mph,0 mph,29.8 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+2,9:53 PM,9 F,4 F,80 %,WSW,5 mph,0 mph,29.8 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+3,10:53 PM,10 F,5 F,80 %,WSW,5 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+4,11:53 PM,10 F,5 F,80 %,WSW,5 mph,0 mph,29.8 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+5,12:53 AM,10 F,5 F,80 %,SW,6 mph,0 mph,29.8 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+6,1:53 AM,10 F,5 F,80 %,SW,7 mph,0 mph,29.8 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+7,2:53 AM,10 F,5 F,80 %,SW,6 mph,0 mph,29.8 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+8,3:53 AM,12 F,5 F,73 %,WSW,7 mph,0 mph,29.8 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+9,4:53 AM,14 F,6 F,71 %,WSW,10 mph,0 mph,29.8 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+10,5:53 AM,16 F,7 F,68 %,WSW,15 mph,0 mph,29.8 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+11,6:53 AM,17 F,7 F,65 %,W,12 mph,0 mph,29.8 in,0.0 in,0.0 in,Fair,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+12,7:53 AM,19 F,8 F,62 %,WSW,9 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+13,8:53 AM,20 F,10 F,65 %,WSW,9 mph,0 mph,29.7 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+14,9:53 AM,20 F,11 F,68 %,WSW,7 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+15,10:53 AM,21 F,12 F,68 %,WSW,7 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+16,11:53 AM,21 F,13 F,71 %,SSW,8 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+17,12:53 PM,20 F,13 F,74 %,VAR,7 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+18,1:13 PM,21 F,13 F,71 %,VAR,6 mph,0 mph,29.7 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+19,1:20 PM,20 F,13 F,74 %,S,8 mph,0 mph,29.7 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+20,1:36 PM,20 F,14 F,78 %,SSE,6 mph,0 mph,29.7 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+21,1:53 PM,20 F,15 F,81 %,S,6 mph,0 mph,29.7 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+22,2:53 PM,20 F,16 F,85 %,SE,5 mph,0 mph,29.7 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+23,3:53 PM,20 F,17 F,89 %,SE,5 mph,0 mph,29.7 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+24,4:28 PM,20 F,18 F,92 %,ESE,6 mph,0 mph,29.7 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+25,4:53 PM,20 F,18 F,92 %,ESE,7 mph,0 mph,29.7 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+26,5:16 PM,21 F,18 F,88 %,ESE,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+27,5:29 PM,21 F,18 F,88 %,ESE,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+28,5:53 PM,21 F,18 F,88 %,E,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+29,6:24 PM,21 F,18 F,88 %,ESE,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018
+30,6:53 PM,22 F,19 F,89 %,ESE,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.91,-87.64,Lincoln Park,KILCHICA516,2-8-2018

@@ -1,0 +1,38 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,29 F,25 F,85 %,WNW,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+1,8:53 PM,28 F,23 F,81 %,NW,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+2,9:53 PM,28 F,23 F,81 %,WNW,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+3,10:48 PM,28 F,23 F,80 %,WNW,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+4,10:53 PM,28 F,23 F,81 %,NW,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+5,11:53 PM,28 F,22 F,78 %,NNW,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+6,12:53 AM,28 F,22 F,78 %,NNE,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+7,1:53 AM,28 F,22 F,78 %,ENE,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+8,2:53 AM,27 F,20 F,75 %,NNE,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+9,3:53 AM,28 F,21 F,75 %,NE,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+10,4:53 AM,30 F,23 F,75 %,ENE,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+11,5:53 AM,32 F,24 F,73 %,NNE,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+12,6:53 AM,32 F,25 F,75 %,ENE,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+13,7:53 AM,34 F,25 F,70 %,ENE,15 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+14,8:53 AM,32 F,26 F,79 %,ENE,15 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+15,9:53 AM,31 F,25 F,79 %,ENE,15 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+16,10:53 AM,31 F,24 F,76 %,ENE,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+17,11:53 AM,31 F,25 F,79 %,ENE,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+18,12:31 PM,31 F,27 F,85 %,ENE,13 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Freezing Rain,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+19,12:53 PM,31 F,27 F,85 %,ENE,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Freezing Rain,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+20,1:12 PM,31 F,27 F,85 %,ENE,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+21,1:53 PM,32 F,27 F,82 %,E,14 mph,24 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+22,2:13 PM,32 F,28 F,85 %,E,10 mph,18 mph,29.3 in,0.0 in,0.0 in,Light Freezing Rain,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+23,2:23 PM,32 F,28 F,85 %,E,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+24,2:35 PM,32 F,28 F,85 %,ENE,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Freezing Rain,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+25,2:53 PM,33 F,29 F,85 %,E,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Freezing Rain,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+26,3:25 PM,33 F,30 F,89 %,E,13 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Freezing Drizzle,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+27,3:53 PM,33 F,30 F,89 %,E,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+28,4:09 PM,33 F,31 F,92 %,NNW,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Rain,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+29,4:23 PM,33 F,31 F,92 %,WNW,13 mph,22 mph,29.4 in,0.1 in,0.0 in,Heavy T-Storm,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+30,4:39 PM,32 F,31 F,96 %,ENE,12 mph,0 mph,29.3 in,0.2 in,0.0 in,Heavy T-Storm,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+31,4:53 PM,33 F,33 F,100 %,E,7 mph,0 mph,29.3 in,0.2 in,0.0 in,Light Rain,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+32,5:12 PM,33 F,32 F,96 %,E,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+33,5:35 PM,33 F,33 F,100 %,ESE,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Rain,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+34,5:53 PM,33 F,33 F,100 %,ESE,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+35,6:10 PM,33 F,33 F,100 %,ESE,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019
+36,6:53 PM,33 F,33 F,100 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.91,-87.68,Wicker Park,KILCHICA616,2-5-2019

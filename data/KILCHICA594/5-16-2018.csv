@@ -1,0 +1,21 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,77.0,70,94,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+1,Low Temp,49.0,52,35,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+2,Day Average Temp,63.0,61,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+3,Precipitation,0.0,0.13,1.38,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+4,Month to Date,2.44,2.02,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+5,Year to Date,10.51,12.38,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+6,Heating Degree Days,2.0,6,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+7,HDD Month to Date,48.0,123,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+8,HDD Since July 1,5853.0,5894,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+9,Cooling Degree Days,0.0,2,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+10,CDD Month to Date,45.0,21,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+11,CDD Year to Date,45.0,34,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+12,Growing Degree Days,14.0,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+13,Dew Point,48.0,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+14,High,56.0,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+15,Low,40.0,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+16,Average,48.0,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+17,Max Wind Speed,13.0,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+18,Visibility,10.0,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018
+19,Sea Level Pressure,30.04,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-16-2018

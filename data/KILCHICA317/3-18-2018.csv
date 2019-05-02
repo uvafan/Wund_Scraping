@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,56,48,81,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+1,Low Temp,28,32,3,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+2,Day Average Temp,42,40,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+3,Precipitation,0,0.09,1.04,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+4,Month to Date,0.79,1.52,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+5,Year to Date,6.08,5.52,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+6,Heating Degree Days,23,25,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+7,HDD Month to Date,519,514,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+8,HDD Since July 1,4810,5025,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+9,Cooling Degree Days,0,0,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+10,CDD Month to Date,0,0,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+11,CDD Year to Date,0,0,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+12,Growing Degree Days,0,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+13,Dew Point,23,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+14,High,28,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+15,Low,20,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+16,Average,23,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+17,Max Wind Speed,12,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+18,Visibility,10,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+19,Sea Level Pressure,30.12,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+20,Actual Time,12h 2m,6:58 AM,7:01 PM,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+21,Civil Twilight,,6:30 AM,7:29 PM,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+22,Nautical Twilight,,5:58 AM,8:01 PM,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+23,Astronomical Twilight,,5:25 AM,8:34 PM,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018
+24,Moon: waxing crescent,,7:50 AM,8:20 PM,,41.94,-87.65,Roscoe Village,KILCHICA317,3-18-2018

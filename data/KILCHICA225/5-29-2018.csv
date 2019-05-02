@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,87,74,95,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+1,Low Temp,70,56,36,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+2,Day Average Temp,79,65,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+3,Precipitation,0,0.14,0.83,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+4,Month to Date,3.97,3.84,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+5,Year to Date,12.04,14.2,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+6,Heating Degree Days,0,3,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+7,HDD Month to Date,78,182,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+8,HDD Since July 1,5883,5953,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+9,Cooling Degree Days,14,3,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+10,CDD Month to Date,134,54,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+11,CDD Year to Date,134,67,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+12,Growing Degree Days,30,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+13,Dew Point,61,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+14,High,66,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+15,Low,56,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+16,Average,61,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+17,Max Wind Speed,24,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+18,Visibility,10,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+19,Sea Level Pressure,29.9,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+20,Actual Time,14h 56m,5:21 AM,8:18 PM,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+21,Civil Twilight,,4:48 AM,8:51 PM,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+22,Nautical Twilight,,4:05 AM,9:33 PM,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+23,Astronomical Twilight,,3:16 AM,10:22 PM,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018
+24,Moon: full moon,,8:22 PM,5:40 AM,,41.82,-87.7,Brighton Park,KILCHICA225,5-29-2018

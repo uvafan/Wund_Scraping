@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,73,71,94,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+1,Low Temp,54,52,36,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+2,Day Average Temp,64,61,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+3,Precipitation,0,0.13,1.4,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+4,Month to Date,2.44,2.15,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+5,Year to Date,10.51,12.51,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+6,Heating Degree Days,1,6,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+7,HDD Month to Date,49,129,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+8,HDD Since July 1,5854,5900,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+9,Cooling Degree Days,0,2,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+10,CDD Month to Date,45,23,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+11,CDD Year to Date,45,36,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+12,Growing Degree Days,12,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+13,Dew Point,49,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+14,High,55,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+15,Low,43,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+16,Average,49,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+17,Max Wind Speed,17,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+18,Visibility,10,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+19,Sea Level Pressure,30.06,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+20,Actual Time,14h 37m,5:30 AM,8:07 PM,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+21,Civil Twilight,,4:58 AM,8:39 PM,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+22,Nautical Twilight,,4:18 AM,9:19 PM,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+23,Astronomical Twilight,,3:32 AM,10:05 PM,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018
+24,Moon: waxing crescent,,7:32 AM,10:41 PM,,41.91,-87.78,North East Oak Park,KILOAKPA23,5-17-2018

@@ -1,0 +1,33 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:02 PM,56 F,54 F,93 %,NNW,6 mph,0 mph,29.1 in,0.0 in,0.0 in,Light Rain,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+1,7:25 PM,56 F,54 F,93 %,NNW,7 mph,0 mph,29.1 in,0.1 in,0.0 in,Rain,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+2,7:36 PM,56 F,53 F,90 %,N,13 mph,0 mph,29.1 in,0.1 in,0.0 in,Light Rain,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+3,7:53 PM,55 F,52 F,89 %,N,9 mph,0 mph,29.1 in,0.1 in,0.0 in,Light Rain,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+4,8:25 PM,54 F,52 F,93 %,NNW,12 mph,0 mph,29.1 in,0.1 in,0.0 in,Heavy Rain,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+5,8:53 PM,52 F,49 F,89 %,N,12 mph,0 mph,29.1 in,0.2 in,0.0 in,Light Rain,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+6,9:26 PM,52 F,49 F,89 %,N,8 mph,0 mph,29.1 in,0.0 in,0.0 in,Light Rain,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+7,9:53 PM,52 F,50 F,93 %,NNW,8 mph,0 mph,29.1 in,0.0 in,0.0 in,Light Rain,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+8,10:53 PM,52 F,49 F,89 %,NNW,10 mph,0 mph,29.1 in,0.0 in,0.0 in,Light Rain,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+9,11:37 PM,51 F,48 F,89 %,N,13 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+10,11:53 PM,51 F,47 F,86 %,NNW,12 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+11,12:22 AM,51 F,47 F,86 %,N,7 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+12,12:53 AM,50 F,46 F,86 %,N,12 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+13,1:53 AM,50 F,46 F,86 %,N,10 mph,0 mph,29.2 in,0.0 in,0.8 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+14,2:53 AM,50 F,45 F,83 %,NNW,13 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+15,3:53 AM,50 F,44 F,80 %,N,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+16,4:53 AM,50 F,43 F,77 %,NNW,12 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+17,5:53 AM,50 F,42 F,74 %,N,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+18,6:20 AM,51 F,42 F,71 %,N,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+19,6:53 AM,52 F,42 F,69 %,N,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+20,7:53 AM,54 F,41 F,62 %,NW,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+21,8:53 AM,57 F,38 F,49 %,NE,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+22,9:53 AM,60 F,37 F,42 %,NNW,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+23,10:53 AM,60 F,37 F,42 %,N,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+24,11:53 AM,56 F,34 F,44 %,E,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+25,12:53 PM,54 F,34 F,47 %,ESE,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+26,1:53 PM,53 F,37 F,55 %,SSE,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+27,2:53 PM,53 F,35 F,50 %,SSE,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+28,3:53 PM,52 F,38 F,59 %,SSW,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+29,4:53 PM,51 F,39 F,63 %,SW,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+30,5:53 PM,51 F,38 F,61 %,WSW,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018
+31,6:53 PM,51 F,38 F,61 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.89,-87.65,West Town,KILCHICA588,10-31-2018

@@ -1,0 +1,25 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,62 F,53 F,72 %,E,3 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+1,8:53 PM,61 F,52 F,72 %,CALM,0 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+2,9:53 PM,60 F,53 F,78 %,CALM,0 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+3,10:53 PM,60 F,53 F,78 %,ENE,3 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+4,11:53 PM,59 F,53 F,81 %,CALM,0 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+5,12:53 AM,60 F,54 F,80 %,CALM,0 mph,0 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+6,1:53 AM,64 F,56 F,75 %,S,5 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+7,2:53 AM,70 F,55 F,59 %,SSW,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+8,3:53 AM,74 F,56 F,53 %,S,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+9,4:53 AM,78 F,55 F,45 %,S,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+10,5:53 AM,80 F,55 F,42 %,SSW,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+11,6:53 AM,82 F,55 F,39 %,SSE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+12,7:53 AM,83 F,54 F,37 %,VAR,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+13,8:53 AM,85 F,54 F,34 %,SE,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+14,9:53 AM,86 F,53 F,32 %,S,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+15,10:53 AM,86 F,55 F,35 %,ESE,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+16,11:53 AM,86 F,56 F,36 %,E,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+17,12:53 PM,84 F,55 F,37 %,ESE,14 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+18,1:53 PM,82 F,54 F,38 %,ESE,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+19,2:53 PM,79 F,53 F,40 %,ESE,9 mph,0 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+20,3:53 PM,76 F,53 F,45 %,ESE,9 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+21,4:53 PM,75 F,54 F,48 %,SE,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+22,5:53 PM,73 F,55 F,53 %,SE,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018
+23,6:53 PM,74 F,54 F,50 %,SSE,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.72,-87.67,Beverly Hills,KILCHICA509,5-24-2018

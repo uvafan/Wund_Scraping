@@ -1,0 +1,26 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,61 F,56 F,83 %,SE,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+1,8:53 PM,60 F,55 F,83 %,ESE,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+2,9:53 PM,60 F,55 F,83 %,SE,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+3,10:53 PM,60 F,55 F,83 %,SE,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+4,11:53 PM,60 F,56 F,86 %,SSE,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+5,12:53 AM,61 F,58 F,90 %,S,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+6,1:53 AM,64 F,60 F,87 %,S,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+7,2:53 AM,66 F,62 F,87 %,S,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+8,3:53 AM,71 F,65 F,81 %,SSW,13 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+9,4:53 AM,76 F,66 F,71 %,SSW,12 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+10,5:53 AM,79 F,67 F,66 %,SW,16 mph,24 mph,29.2 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+11,5:57 AM,80 F,68 F,67 %,SW,14 mph,24 mph,29.2 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+12,6:53 AM,82 F,68 F,62 %,SSW,16 mph,25 mph,29.2 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+13,7:53 AM,84 F,67 F,56 %,SW,18 mph,29 mph,29.2 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+14,8:53 AM,86 F,66 F,51 %,SW,20 mph,35 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+15,9:53 AM,87 F,66 F,49 %,SW,23 mph,37 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+16,10:53 AM,88 F,64 F,45 %,SW,28 mph,39 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+17,11:53 AM,88 F,64 F,45 %,SW,28 mph,39 mph,29.1 in,0.0 in,0.0 in,Partly Cloudy / Windy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+18,12:53 PM,86 F,63 F,46 %,SSW,21 mph,33 mph,29.0 in,0.0 in,0.0 in,Partly Cloudy / Windy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+19,1:53 PM,85 F,63 F,48 %,SSW,16 mph,29 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+20,2:53 PM,84 F,64 F,51 %,SSW,18 mph,29 mph,29.1 in,0.0 in,0.0 in,Partly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+21,3:53 PM,83 F,65 F,54 %,SSW,18 mph,38 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+22,4:53 PM,81 F,65 F,58 %,SSW,24 mph,36 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+23,5:53 PM,81 F,65 F,58 %,SSW,20 mph,33 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018
+24,6:53 PM,80 F,66 F,62 %,SW,23 mph,32 mph,29.1 in,0.0 in,0.0 in,Cloudy / Windy,41.94,-87.65,Roscoe Village,KILCHICA317,10-3-2018

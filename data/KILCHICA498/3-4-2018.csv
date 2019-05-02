@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,47,42,74,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+1,Low Temp,32,27,-4,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+2,Day Average Temp,40,34,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+3,Precipitation,0,0.08,1.42,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+4,Month to Date,0.53,0.34,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+5,Year to Date,5.82,4.34,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+6,Heating Degree Days,25,31,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+7,HDD Month to Date,103,125,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+8,HDD Since July 1,4394,4636,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+9,Cooling Degree Days,0,0,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+10,CDD Month to Date,0,0,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+11,CDD Year to Date,0,0,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+12,Growing Degree Days,0,-,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+13,Dew Point,21,-,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+14,High,26,-,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+15,Low,15,-,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+16,Average,21,-,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+17,Max Wind Speed,22,-,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+18,Visibility,10,-,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+19,Sea Level Pressure,30.5,-,-,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+20,Actual Time,11h 23m,6:22 AM,5:45 PM,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+21,Civil Twilight,,5:54 AM,6:13 PM,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+22,Nautical Twilight,,5:22 AM,6:45 PM,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+23,Astronomical Twilight,,4:49 AM,7:17 PM,,41.88,-87.68,United Center,KILCHICA498,3-4-2018
+24,Moon: waning gibbous,,9:55 PM,9:02 AM,,41.88,-87.68,United Center,KILCHICA498,3-4-2018

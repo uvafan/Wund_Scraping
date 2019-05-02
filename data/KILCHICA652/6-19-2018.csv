@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,84,81,102,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+1,Low Temp,66,64,44,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+2,Day Average Temp,75,72,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+3,Precipitation,0.1,0.14,1.79,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+4,Month to Date,3.2,2.71,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+5,Year to Date,15.46,17.2,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+6,Heating Degree Days,0,1,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+7,HDD Month to Date,1,28,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+8,HDD Since July 1,5884,5987,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+9,Cooling Degree Days,10,8,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+10,CDD Month to Date,129,105,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+11,CDD Year to Date,293,179,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+12,Growing Degree Days,24,-,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+13,Dew Point,66,-,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+14,High,70,-,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+15,Low,63,-,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+16,Average,66,-,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+17,Max Wind Speed,18,-,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+18,Visibility,10,-,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+19,Sea Level Pressure,30.03,-,-,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+20,Actual Time,15h 13m,5:16 AM,8:30 PM,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+21,Civil Twilight,,4:42 AM,9:04 PM,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+22,Nautical Twilight,,3:57 AM,9:48 PM,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+23,Astronomical Twilight,,3:04 AM,10:42 PM,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018
+24,Moon: waxing crescent,,11:57 AM,12:35 AM,,41.91,-87.68,Bucktown,KILCHICA652,6-19-2018

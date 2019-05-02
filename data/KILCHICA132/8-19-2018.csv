@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,85,82,99,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+1,Low Temp,68,66,49,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+2,Day Average Temp,77,74,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+3,Precipitation,1e-16,0.12,1.39,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+4,Month to Date,1.24,2.53,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+5,Year to Date,23.04,25.09,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+6,Heating Degree Days,0,0,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+7,HDD Month to Date,0,0,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+8,HDD Since July 1,0,1,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+9,Cooling Degree Days,12,9,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+10,CDD Month to Date,264,186,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+11,CDD Year to Date,1038,808,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+12,Growing Degree Days,27,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+13,Dew Point,68,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+14,High,71,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+15,Low,66,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+16,Average,68,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+17,Max Wind Speed,16,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+18,Visibility,10,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+19,Sea Level Pressure,29.97,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+20,Actual Time,13h 42m,6:04 AM,7:47 PM,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+21,Civil Twilight,,5:34 AM,8:16 PM,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+22,Nautical Twilight,,4:58 AM,8:52 PM,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+23,Astronomical Twilight,,4:20 AM,9:31 PM,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018
+24,Moon: waxing gibbous,,3:01 PM,12:18 AM,,41.88,-87.66,West Loop-Union Park,KILCHICA132,8-19-2018

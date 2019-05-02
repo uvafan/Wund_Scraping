@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,88,68,91,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+1,Low Temp,60,50,29,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+2,Day Average Temp,74,59,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+3,Precipitation,0,0.1,3.95,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+4,Month to Date,1.39,0.29,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+5,Year to Date,29.51,30.15,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+6,Heating Degree Days,0,7,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+7,HDD Month to Date,1,21,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+8,HDD Since July 1,48,103,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+9,Cooling Degree Days,9,1,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+10,CDD Month to Date,11,3,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+11,CDD Year to Date,1381,1032,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+12,Growing Degree Days,24,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+13,Dew Point,63,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+14,High,68,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+15,Low,55,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+16,Average,63,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+17,Max Wind Speed,29,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+18,Visibility,10,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+19,Sea Level Pressure,30.05,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+20,Actual Time,11h 40m,6:50 AM,6:31 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+21,Civil Twilight,,6:23 AM,6:58 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+22,Nautical Twilight,,5:51 AM,7:31 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+23,Astronomical Twilight,,5:18 AM,8:03 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018
+24,Moon: waning crescent,,12:13 AM,3:22 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,10-3-2018

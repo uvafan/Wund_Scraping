@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,35,41,71,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+1,Low Temp,28,26,-4,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+2,Day Average Temp,32,34,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+3,Precipitation,1e-16,0.08,1.02,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+4,Month to Date,1e-16,0.17,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+5,Year to Date,2.91,4.17,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+6,Heating Degree Days,33,31,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+7,HDD Month to Date,68,63,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+8,HDD Since July 1,4699,4574,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+9,Cooling Degree Days,0,0,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+10,CDD Month to Date,0,0,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+11,CDD Year to Date,0,0,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+12,Growing Degree Days,0,-,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+13,Dew Point,21,-,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+14,High,26,-,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+15,Low,15,-,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+16,Average,21,-,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+17,Max Wind Speed,16,-,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+18,Visibility,10,-,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+19,Sea Level Pressure,30.31,-,-,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+20,Actual Time,11h 16m,6:25 AM,5:42 PM,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+21,Civil Twilight,,5:57 AM,6:10 PM,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+22,Nautical Twilight,,5:25 AM,6:42 PM,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+23,Astronomical Twilight,,4:53 AM,7:14 PM,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019
+24,Moon: waning crescent,,5:23 AM,3:01 PM,,41.79,-87.59,Hyde Park,KILCHICA505,3-2-2019

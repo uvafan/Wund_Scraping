@@ -1,0 +1,29 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,56 F,45 F,67 %,E,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+1,8:53 PM,55 F,46 F,72 %,E,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+2,9:53 PM,55 F,46 F,72 %,E,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+3,10:53 PM,55 F,47 F,74 %,E,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+4,11:53 PM,54 F,47 F,77 %,E,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Rain,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+5,12:53 AM,55 F,48 F,77 %,E,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+6,1:53 AM,56 F,48 F,75 %,E,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+7,2:53 AM,57 F,48 F,72 %,SE,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+8,3:53 AM,59 F,48 F,67 %,SE,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+9,4:53 AM,61 F,50 F,67 %,SSW,3 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+10,5:53 AM,64 F,53 F,67 %,WNW,3 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+11,6:53 AM,65 F,54 F,68 %,NNW,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+12,7:17 AM,65 F,54 F,68 %,NNW,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+13,7:53 AM,66 F,54 F,65 %,N,3 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+14,8:35 AM,67 F,55 F,66 %,N,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+15,8:53 AM,67 F,55 F,66 %,N,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+16,9:53 AM,65 F,56 F,73 %,N,5 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+17,10:10 AM,66 F,57 F,73 %,N,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+18,10:53 AM,65 F,57 F,75 %,NNE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+19,11:53 AM,64 F,57 F,78 %,NNE,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+20,12:25 PM,63 F,57 F,81 %,NNE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+21,12:53 PM,62 F,56 F,80 %,NNE,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+22,1:53 PM,61 F,55 F,81 %,NNE,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+23,2:53 PM,61 F,55 F,81 %,NE,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+24,3:53 PM,61 F,55 F,81 %,ENE,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+25,4:53 PM,61 F,55 F,81 %,E,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+26,5:53 PM,60 F,55 F,83 %,ENE,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018
+27,6:53 PM,59 F,54 F,83 %,NE,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,9-30-2018

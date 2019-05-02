@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,41,43,61,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+1,Low Temp,33,30,0,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+2,Day Average Temp,37,37,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+3,Precipitation,0.77,0.1,0.77,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+4,Month to Date,2.03,2.87,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+5,Year to Date,36.41,35.97,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+6,Heating Degree Days,28,28,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+7,HDD Month to Date,706,558,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+8,HDD Since July 1,1145,989,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+9,Cooling Degree Days,0,0,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+10,CDD Month to Date,0,0,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+11,CDD Year to Date,1408,1045,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+12,Growing Degree Days,0,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+13,Dew Point,33,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+14,High,35,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+15,Low,31,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+16,Average,33,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+17,Max Wind Speed,31,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+18,Visibility,10,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+19,Sea Level Pressure,29.91,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+20,Actual Time,9h 31m,6:53 AM,4:25 PM,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+21,Civil Twilight,,6:22 AM,4:55 PM,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+22,Nautical Twilight,,5:48 AM,5:29 PM,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+23,Astronomical Twilight,,5:15 AM,6:03 PM,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018
+24,Moon: waning gibbous,,7:57 PM,10:16 AM,,41.82,-87.7,Brighton Park,KILCHICA225,11-25-2018

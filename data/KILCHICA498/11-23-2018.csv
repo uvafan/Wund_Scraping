@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,51,45,70,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+1,Low Temp,34,31,-1,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+2,Day Average Temp,43,38,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+3,Precipitation,0.04,0.12,1.98,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+4,Month to Date,1.13,2.65,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+5,Year to Date,35.51,35.75,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+6,Heating Degree Days,22,27,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+7,HDD Month to Date,657,502,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+8,HDD Since July 1,1096,933,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+9,Cooling Degree Days,0,0,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+10,CDD Month to Date,0,0,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+11,CDD Year to Date,1408,1045,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+12,Growing Degree Days,0,-,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+13,Dew Point,35,-,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+14,High,41,-,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+15,Low,29,-,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+16,Average,35,-,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+17,Max Wind Speed,25,-,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+18,Visibility,10,-,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+19,Sea Level Pressure,30.17,-,-,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+20,Actual Time,9h 34m,6:51 AM,4:25 PM,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+21,Civil Twilight,,6:20 AM,4:56 PM,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+22,Nautical Twilight,,5:46 AM,5:30 PM,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+23,Astronomical Twilight,,5:13 AM,6:03 PM,,41.88,-87.68,United Center,KILCHICA498,11-23-2018
+24,Moon: waning gibbous,,6:11 PM,8:00 AM,,41.88,-87.68,United Center,KILCHICA498,11-23-2018

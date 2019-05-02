@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,81,84,99,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+1,Low Temp,70,67,48,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+2,Day Average Temp,76,75,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+3,Precipitation,0,0.1,2.5,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+4,Month to Date,0.01,0.21,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+5,Year to Date,19.87,18.76,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+6,Heating Degree Days,0,0,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+7,HDD Month to Date,0,0,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+8,HDD Since July 1,0,0,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+9,Cooling Degree Days,11,10,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+10,CDD Month to Date,31,20,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+11,CDD Year to Date,430,304,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+12,Growing Degree Days,26,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+13,Dew Point,62,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+14,High,73,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+15,Low,52,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+16,Average,62,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+17,Max Wind Speed,12,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+18,Visibility,10,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+19,Sea Level Pressure,30.09,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+20,Actual Time,15h 9m,5:20 AM,8:30 PM,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+21,Civil Twilight,,4:46 AM,9:04 PM,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+22,Nautical Twilight,,4:02 AM,9:48 PM,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+23,Astronomical Twilight,,3:10 AM,10:40 PM,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018
+24,Moon: waning gibbous,,11:23 PM,9:21 AM,,41.89,-87.62,Lakeshore East,KILCHICA609,7-2-2018

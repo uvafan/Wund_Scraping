@@ -1,0 +1,41 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,29 F,25 F,85 %,SSW,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+1,8:53 PM,29 F,25 F,85 %,SSW,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+2,9:53 PM,29 F,25 F,85 %,SSW,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+3,10:53 PM,30 F,26 F,85 %,SSW,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+4,11:53 PM,29 F,26 F,89 %,SSW,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+5,12:53 AM,28 F,26 F,92 %,SSW,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+6,1:53 AM,29 F,26 F,89 %,SSW,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+7,2:53 AM,30 F,27 F,88 %,SSW,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+8,3:53 AM,34 F,29 F,82 %,SSW,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+9,4:53 AM,38 F,30 F,73 %,SSW,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+10,5:53 AM,40 F,32 F,73 %,SSW,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+11,6:53 AM,42 F,33 F,70 %,SSW,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+12,7:53 AM,45 F,35 F,68 %,SSW,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+13,8:53 AM,45 F,36 F,71 %,SSW,14 mph,22 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+14,8:59 AM,45 F,36 F,71 %,SSW,13 mph,22 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+15,9:53 AM,43 F,37 F,80 %,SSW,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+16,10:53 AM,41 F,38 F,89 %,SSW,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+17,11:08 AM,41 F,38 F,89 %,SSW,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+18,11:22 AM,40 F,38 F,93 %,SSW,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+19,11:35 AM,40 F,38 F,93 %,SSW,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+20,11:53 AM,40 F,38 F,93 %,SSW,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+21,12:23 PM,40 F,38 F,93 %,SSW,9 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+22,12:53 PM,39 F,38 F,96 %,SSW,9 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+23,1:31 PM,39 F,39 F,100 %,SSW,9 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+24,1:41 PM,40 F,39 F,97 %,SSW,9 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+25,1:53 PM,39 F,39 F,100 %,SSW,7 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+26,2:01 PM,39 F,39 F,100 %,SSW,10 mph,18 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+27,2:53 PM,40 F,40 F,100 %,SSW,10 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+28,3:07 PM,41 F,40 F,96 %,SSW,15 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+29,3:24 PM,41 F,41 F,100 %,SW,10 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+30,3:53 PM,40 F,40 F,100 %,SW,9 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+31,4:03 PM,40 F,40 F,100 %,SW,9 mph,18 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+32,4:09 PM,40 F,40 F,100 %,SW,8 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+33,4:53 PM,40 F,40 F,100 %,SSW,7 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+34,5:05 PM,40 F,40 F,100 %,SSW,7 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+35,5:27 PM,40 F,39 F,97 %,SSW,8 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+36,5:42 PM,40 F,40 F,100 %,SSW,8 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+37,5:53 PM,40 F,40 F,100 %,SSW,8 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+38,6:10 PM,40 F,40 F,100 %,SW,9 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018
+39,6:53 PM,41 F,41 F,100 %,SSW,10 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.87,-87.79,Oak Park,KILOAKPA1,2-14-2018

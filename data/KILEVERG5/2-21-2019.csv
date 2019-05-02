@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,35,38,66,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+1,Low Temp,26,23,-6,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+2,Day Average Temp,31,31,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+3,Precipitation,0,0.07,3.25,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+4,Month to Date,1.38,1.35,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+5,Year to Date,2.48,3.41,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+6,Heating Degree Days,34,34,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+7,HDD Month to Date,785,782,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+8,HDD Since July 1,4363,4278,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+9,Cooling Degree Days,0,0,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+10,CDD Month to Date,0,0,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+11,CDD Year to Date,0,0,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+12,Growing Degree Days,0,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+13,Dew Point,19,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+14,High,22,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+15,Low,16,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+16,Average,19,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+17,Max Wind Speed,24,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+18,Visibility,10,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+19,Sea Level Pressure,30.37,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+20,Actual Time,10h 52m,6:39 AM,5:32 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+21,Civil Twilight,,6:11 AM,6:00 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+22,Nautical Twilight,,5:39 AM,6:32 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+23,Astronomical Twilight,,5:06 AM,7:04 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019
+24,Moon: waning gibbous,,9:14 PM,9:08 AM,,41.72,-87.71,Evergreen Park,KILEVERG5,2-21-2019

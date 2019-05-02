@@ -1,0 +1,25 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,53 F,39 F,59 %,NNW,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+1,8:53 PM,52 F,39 F,61 %,N,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+2,9:53 PM,52 F,39 F,61 %,N,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+3,10:53 PM,51 F,39 F,63 %,N,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+4,11:53 PM,50 F,39 F,66 %,N,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+5,12:53 AM,50 F,40 F,68 %,N,3 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+6,1:53 AM,52 F,41 F,66 %,N,5 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+7,2:53 AM,56 F,41 F,57 %,CALM,0 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+8,3:53 AM,61 F,42 F,50 %,CALM,0 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+9,4:53 AM,64 F,44 F,48 %,SE,5 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+10,5:53 AM,67 F,43 F,42 %,ESE,3 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+11,6:53 AM,70 F,44 F,39 %,CALM,0 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+12,7:53 AM,71 F,39 F,31 %,VAR,3 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+13,8:53 AM,73 F,42 F,33 %,E,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+14,9:53 AM,72 F,41 F,33 %,E,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+15,10:53 AM,71 F,39 F,31 %,ENE,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+16,11:53 AM,72 F,38 F,29 %,ESE,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+17,12:53 PM,71 F,36 F,28 %,ESE,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+18,1:53 PM,69 F,37 F,31 %,ESE,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+19,2:53 PM,68 F,38 F,33 %,ESE,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+20,3:53 PM,66 F,39 F,37 %,ESE,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+21,4:53 PM,65 F,41 F,42 %,SE,5 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+22,5:53 PM,65 F,40 F,40 %,SSE,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018
+23,6:53 PM,65 F,39 F,39 %,S,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.66,West Loop-Union Park,KILCHICA132,5-7-2018

@@ -1,0 +1,35 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,30 F,27 F,88 %,SW,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+1,8:53 PM,29 F,27 F,92 %,SW,5 mph,0 mph,29.5 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+2,9:53 PM,29 F,27 F,92 %,SW,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+3,10:53 PM,28 F,27 F,96 %,SW,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+4,11:53 PM,28 F,27 F,96 %,SSW,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+5,12:53 AM,29 F,28 F,96 %,SSW,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+6,1:26 AM,28 F,28 F,100 %,SW,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+7,1:53 AM,28 F,28 F,100 %,SW,5 mph,0 mph,29.6 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+8,2:32 AM,28 F,28 F,100 %,SW,3 mph,0 mph,29.6 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+9,2:53 AM,28 F,28 F,100 %,S,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+10,3:53 AM,28 F,28 F,100 %,SSW,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+11,4:16 AM,28 F,28 F,100 %,SW,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+12,4:37 AM,28 F,28 F,100 %,SSW,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+13,4:53 AM,29 F,28 F,96 %,S,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+14,5:53 AM,29 F,28 F,96 %,S,5 mph,0 mph,29.6 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+15,6:13 AM,30 F,28 F,92 %,SSW,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+16,6:29 AM,30 F,28 F,92 %,S,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+17,6:53 AM,30 F,29 F,96 %,S,5 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+18,7:53 AM,32 F,29 F,88 %,SSW,3 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+19,8:34 AM,33 F,29 F,85 %,SSE,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+20,8:53 AM,33 F,29 F,85 %,S,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+21,9:53 AM,34 F,29 F,82 %,S,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+22,10:53 AM,34 F,29 F,82 %,SSE,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+23,11:53 AM,33 F,29 F,85 %,SSE,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+24,12:37 PM,32 F,29 F,88 %,SSE,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+25,12:53 PM,32 F,29 F,88 %,SSE,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+26,1:53 PM,31 F,29 F,92 %,SE,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+27,2:53 PM,31 F,29 F,92 %,SSE,10 mph,20 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+28,3:45 PM,31 F,29 F,92 %,SSE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+29,3:53 PM,31 F,29 F,92 %,SSE,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+30,4:53 PM,30 F,28 F,92 %,SSE,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+31,5:53 PM,30 F,28 F,92 %,SSE,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+32,6:21 PM,30 F,28 F,92 %,SE,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018
+33,6:53 PM,31 F,29 F,92 %,S,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Fog,41.72,-87.71,Evergreen Park,KILEVERG5,1-9-2018

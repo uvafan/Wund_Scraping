@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,15,34,61,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+1,Low Temp,5,20,-12,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+2,Day Average Temp,10,27,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+3,Precipitation,1e-16,0.07,0.81,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+4,Month to Date,0.74,0.46,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+5,Year to Date,1.84,2.52,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+6,Heating Degree Days,55,38,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+7,HDD Month to Date,289,311,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+8,HDD Since July 1,3867,3807,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+9,Cooling Degree Days,0,0,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+10,CDD Month to Date,0,0,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+11,CDD Year to Date,0,0,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+12,Growing Degree Days,0,-,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+13,Dew Point,-1,-,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+14,High,2,-,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+15,Low,-4,-,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+16,Average,-1,-,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+17,Max Wind Speed,36,-,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+18,Visibility,10,-,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+19,Sea Level Pressure,30.88,-,-,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+20,Actual Time,10h 18m,6:57 AM,5:15 PM,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+21,Civil Twilight,,6:28 AM,5:44 PM,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+22,Nautical Twilight,,5:55 AM,6:17 PM,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+23,Astronomical Twilight,,5:22 AM,6:49 PM,,41.88,-87.68,United Center,KILCHICA498,2-8-2019
+24,Moon: waxing crescent,,10:01 AM,9:57 PM,,41.88,-87.68,United Center,KILCHICA498,2-8-2019

@@ -1,0 +1,30 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:20 PM,33 F,33 F,100 %,NW,13 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+1,7:30 PM,33 F,33 F,100 %,NNW,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+2,7:53 PM,33 F,33 F,100 %,NNW,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+3,8:08 PM,34 F,33 F,96 %,NNW,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+4,8:53 PM,34 F,34 F,100 %,N,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+5,9:43 PM,35 F,34 F,96 %,N,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Wintry Mix,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+6,9:53 PM,35 F,34 F,96 %,N,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Wintry Mix,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+7,10:31 PM,36 F,34 F,93 %,NNE,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Drizzle,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+8,10:53 PM,36 F,34 F,93 %,N,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+9,11:53 PM,36 F,33 F,89 %,N,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+10,12:53 AM,35 F,32 F,89 %,N,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+11,1:53 AM,35 F,31 F,85 %,N,13 mph,0 mph,29.5 in,0.0 in,0.1 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+12,2:53 AM,37 F,30 F,76 %,N,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+13,3:53 AM,39 F,30 F,70 %,N,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+14,4:53 AM,43 F,31 F,62 %,N,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+15,5:53 AM,46 F,27 F,47 %,N,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+16,6:53 AM,48 F,26 F,42 %,N,13 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+17,7:53 AM,50 F,24 F,36 %,NNE,13 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+18,8:53 AM,52 F,25 F,35 %,N,12 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+19,9:53 AM,52 F,26 F,37 %,NE,14 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+20,10:53 AM,53 F,19 F,26 %,NE,13 mph,0 mph,29.7 in,0.0 in,0.0 in,Partly Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+21,11:53 AM,53 F,26 F,35 %,NNE,10 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+22,12:53 PM,52 F,24 F,34 %,ENE,9 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+23,1:53 PM,50 F,26 F,39 %,NNE,10 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+24,2:53 PM,47 F,26 F,44 %,NNE,9 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+25,3:53 PM,46 F,25 F,44 %,N,6 mph,0 mph,29.8 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+26,4:53 PM,43 F,23 F,45 %,NW,7 mph,0 mph,29.8 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+27,5:53 PM,41 F,25 F,53 %,NW,8 mph,0 mph,29.8 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018
+28,6:53 PM,39 F,25 F,57 %,WNW,3 mph,0 mph,29.8 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,4-19-2018

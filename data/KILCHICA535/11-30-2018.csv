@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,43,41,66,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+1,Low Temp,32,28,-1,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+2,Day Average Temp,38,34,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+3,Precipitation,1e-16,0.11,0.6,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+4,Month to Date,2.15,3.42,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+5,Year to Date,36.53,36.52,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+6,Heating Degree Days,27,31,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+7,HDD Month to Date,884,707,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+8,HDD Since July 1,1323,1135,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+9,Cooling Degree Days,0,0,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+10,CDD Month to Date,0,0,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+11,CDD Year to Date,1408,1045,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+12,Growing Degree Days,0,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+13,Dew Point,30,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+14,High,33,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+15,Low,26,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+16,Average,30,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+17,Max Wind Speed,17,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+18,Visibility,7,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+19,Sea Level Pressure,30.09,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+20,Actual Time,9h 23m,6:59 AM,4:22 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+21,Civil Twilight,,6:28 AM,4:53 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+22,Nautical Twilight,,5:53 AM,5:28 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+23,Astronomical Twilight,,5:20 AM,6:01 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018
+24,Moon: waning crescent,,12:30 AM,2:06 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,11-30-2018

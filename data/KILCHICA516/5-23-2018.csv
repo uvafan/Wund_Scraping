@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,78,72,92,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+1,Low Temp,51,54,35,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+2,Day Average Temp,65,63,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+3,Precipitation,0,0.14,1.41,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+4,Month to Date,3.84,3,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+5,Year to Date,11.91,13.36,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+6,Heating Degree Days,0,5,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+7,HDD Month to Date,78,160,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+8,HDD Since July 1,5883,5931,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+9,Cooling Degree Days,0,3,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+10,CDD Month to Date,45,36,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+11,CDD Year to Date,45,49,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+12,Growing Degree Days,15,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+13,Dew Point,53,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+14,High,58,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+15,Low,46,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+16,Average,53,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+17,Max Wind Speed,13,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+18,Visibility,10,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+19,Sea Level Pressure,30.2,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+20,Actual Time,14h 48m,5:24 AM,8:12 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+21,Civil Twilight,,4:52 AM,8:45 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+22,Nautical Twilight,,4:10 AM,9:26 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+23,Astronomical Twilight,,3:23 AM,10:14 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018
+24,Moon: waxing gibbous,,2:06 PM,2:32 AM,,41.91,-87.64,Lincoln Park,KILCHICA516,5-23-2018

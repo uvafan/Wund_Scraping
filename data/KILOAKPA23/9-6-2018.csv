@@ -1,0 +1,34 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,72 F,66 F,81 %,NNE,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+1,8:40 PM,71 F,65 F,81 %,NNE,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+2,8:53 PM,71 F,65 F,81 %,NNE,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+3,9:23 PM,71 F,66 F,84 %,NNE,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+4,9:53 PM,71 F,66 F,84 %,NNE,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+5,10:53 PM,70 F,66 F,87 %,NE,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+6,11:08 PM,70 F,64 F,81 %,NNE,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+7,11:25 PM,70 F,65 F,84 %,NNE,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+8,11:53 PM,70 F,65 F,84 %,NNE,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+9,12:53 AM,70 F,65 F,84 %,NNE,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+10,1:09 AM,69 F,65 F,87 %,NNE,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+11,1:53 AM,69 F,66 F,90 %,NNE,12 mph,0 mph,29.6 in,0.0 in,0.5 in,Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+12,2:53 AM,68 F,65 F,90 %,NNE,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+13,3:53 AM,68 F,65 F,90 %,N,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+14,4:15 AM,68 F,65 F,90 %,N,13 mph,0 mph,29.6 in,0.1 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+15,4:53 AM,69 F,65 F,87 %,NNE,13 mph,0 mph,29.6 in,0.2 in,0.0 in,Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+16,5:43 AM,69 F,66 F,90 %,NNE,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+17,5:53 AM,69 F,66 F,90 %,NNE,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+18,6:53 AM,69 F,65 F,87 %,NNE,13 mph,21 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+19,7:34 AM,69 F,63 F,81 %,NNE,15 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+20,7:53 AM,68 F,63 F,84 %,NE,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+21,8:40 AM,69 F,62 F,78 %,NNE,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+22,8:53 AM,69 F,62 F,78 %,NNE,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+23,9:53 AM,70 F,61 F,73 %,NNE,15 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+24,10:53 AM,70 F,60 F,71 %,NE,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+25,11:53 AM,69 F,58 F,68 %,NE,17 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+26,12:53 PM,69 F,58 F,68 %,NNE,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+27,1:53 PM,68 F,56 F,65 %,NNE,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+28,2:53 PM,68 F,56 F,65 %,NNE,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+29,3:53 PM,68 F,58 F,70 %,NE,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+30,4:53 PM,69 F,59 F,70 %,NE,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+31,5:53 PM,69 F,59 F,70 %,NE,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018
+32,6:53 PM,70 F,59 F,68 %,NE,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.91,-87.78,North East Oak Park,KILOAKPA23,9-6-2018

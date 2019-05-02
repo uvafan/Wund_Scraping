@@ -1,0 +1,21 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,90.0,82,99,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+1,Low Temp,69.0,67,48,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+2,Day Average Temp,80.0,75,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+3,Precipitation,0.0,0.14,1.79,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+4,Month to Date,0.87,1.88,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+5,Year to Date,22.67,24.44,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+6,Heating Degree Days,0.0,0,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+7,HDD Month to Date,0.0,0,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+8,HDD Since July 1,0.0,1,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+9,Cooling Degree Days,15.0,10,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+10,CDD Month to Date,199.0,140,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+11,CDD Year to Date,973.0,762,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+12,Growing Degree Days,30.0,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+13,Dew Point,62.0,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+14,High,64.0,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+15,Low,60.0,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+16,Average,62.0,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+17,Max Wind Speed,14.0,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+18,Visibility,10.0,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018
+19,Sea Level Pressure,29.98,-,-,,41.94,-87.65,Roscoe Village,KILCHICA317,8-14-2018

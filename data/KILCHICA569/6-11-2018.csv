@@ -1,0 +1,31 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:26 PM,64 F,63 F,96 %,ENE,9 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+1,7:39 PM,64 F,63 F,96 %,ENE,10 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Rain,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+2,7:53 PM,64 F,64 F,100 %,ENE,12 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Rain,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+3,8:53 PM,63 F,62 F,97 %,ENE,12 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Rain,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+4,9:53 PM,63 F,63 F,100 %,E,14 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Rain,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+5,10:53 PM,62 F,62 F,100 %,E,10 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Rain,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+6,11:53 PM,62 F,62 F,100 %,ENE,9 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Rain,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+7,12:53 AM,62 F,62 F,100 %,E,12 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+8,1:53 AM,62 F,62 F,100 %,ENE,12 mph,0 mph,29.2 in,0.0 in,0.4 in,Fog,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+9,2:18 AM,62 F,62 F,100 %,ENE,10 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Rain,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+10,2:53 AM,62 F,62 F,100 %,ENE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Rain,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+11,3:53 AM,62 F,62 F,100 %,ENE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+12,4:53 AM,63 F,63 F,100 %,E,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+13,5:15 AM,64 F,64 F,100 %,E,8 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+14,5:53 AM,65 F,64 F,97 %,E,12 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+15,6:53 AM,64 F,63 F,96 %,E,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+16,7:53 AM,65 F,62 F,90 %,ENE,14 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+17,8:53 AM,67 F,62 F,84 %,E,12 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+18,9:53 AM,68 F,64 F,87 %,E,16 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+19,10:53 AM,68 F,64 F,87 %,E,12 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+20,11:53 AM,69 F,65 F,87 %,E,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+21,12:53 PM,69 F,65 F,87 %,E,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+22,1:53 PM,68 F,65 F,90 %,E,12 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+23,2:53 PM,65 F,64 F,97 %,E,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+24,3:24 PM,65 F,64 F,97 %,ENE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+25,3:53 PM,65 F,64 F,97 %,ENE,9 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+26,4:53 PM,65 F,64 F,97 %,E,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+27,5:27 PM,64 F,63 F,96 %,E,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+28,5:53 PM,65 F,64 F,97 %,NE,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018
+29,6:53 PM,66 F,65 F,96 %,NE,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.7,Logan Square,KILCHICA569,6-11-2018

@@ -1,0 +1,31 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:20 PM,36 F,33 F,89 %,N,17 mph,25 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+1,7:41 PM,36 F,34 F,93 %,N,13 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+2,7:53 PM,36 F,33 F,89 %,N,14 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+3,8:17 PM,36 F,32 F,86 %,N,16 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+4,8:53 PM,35 F,31 F,85 %,N,12 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+5,9:53 PM,35 F,29 F,78 %,N,16 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+6,10:53 PM,35 F,28 F,76 %,N,15 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+7,11:53 PM,35 F,28 F,76 %,N,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+8,12:53 AM,34 F,29 F,82 %,N,13 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+9,1:43 AM,34 F,26 F,73 %,N,21 mph,25 mph,29.4 in,0.0 in,0.0 in,Cloudy / Windy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+10,1:53 AM,34 F,24 F,67 %,NNW,17 mph,23 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+11,2:20 AM,33 F,24 F,70 %,NW,14 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+12,2:53 AM,33 F,24 F,70 %,NNW,15 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+13,3:53 AM,33 F,23 F,66 %,NNW,13 mph,23 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+14,4:26 AM,33 F,23 F,66 %,NNW,16 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+15,4:53 AM,33 F,23 F,66 %,NW,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+16,5:53 AM,34 F,22 F,61 %,WNW,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+17,6:53 AM,35 F,23 F,61 %,WNW,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+18,7:53 AM,35 F,20 F,54 %,NW,17 mph,22 mph,29.6 in,0.0 in,0.0 in,Partly Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+19,8:53 AM,35 F,18 F,50 %,NW,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+20,9:53 AM,35 F,15 F,44 %,W,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+21,10:53 AM,34 F,11 F,38 %,WNW,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+22,11:53 AM,32 F,10 F,40 %,WNW,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+23,12:53 PM,30 F,10 F,43 %,WNW,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+24,1:53 PM,28 F,13 F,53 %,W,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+25,2:53 PM,26 F,12 F,55 %,W,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+26,3:53 PM,24 F,7 F,48 %,W,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+27,4:53 PM,23 F,8 F,53 %,W,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+28,5:53 PM,22 F,12 F,66 %,SW,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018
+29,6:53 PM,20 F,11 F,68 %,WSW,5 mph,0 mph,29.6 in,0.0 in,0.0 in,Partly Cloudy,41.91,-87.68,Bucktown,KILCHICA652,2-16-2018

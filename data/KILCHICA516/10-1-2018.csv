@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,76,69,92,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+1,Low Temp,57,51,32,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+2,Day Average Temp,67,60,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+3,Precipitation,1.21,0.1,1.29,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+4,Month to Date,1.21,0.1,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+5,Year to Date,29.33,29.96,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+6,Heating Degree Days,0,7,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+7,HDD Month to Date,0,7,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+8,HDD Since July 1,47,89,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+9,Cooling Degree Days,2,1,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+10,CDD Month to Date,2,1,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+11,CDD Year to Date,1372,1030,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+12,Growing Degree Days,16,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+13,Dew Point,58,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+14,High,64,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+15,Low,53,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+16,Average,58,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+17,Max Wind Speed,25,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+18,Visibility,10,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+19,Sea Level Pressure,30.23,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+20,Actual Time,11h 45m,6:48 AM,6:34 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+21,Civil Twilight,,6:20 AM,7:02 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+22,Nautical Twilight,,5:48 AM,7:34 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+23,Astronomical Twilight,,5:15 AM,8:07 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018
+24,Moon: waning gibbous,,11:13 PM,1:28 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,10-1-2018

@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,89,75,102,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+1,Low Temp,70,57,41,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+2,Day Average Temp,80,66,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+3,Precipitation,0,0.15,2.97,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+4,Month to Date,4.19,4.13,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+5,Year to Date,12.26,14.49,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+6,Heating Degree Days,0,3,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+7,HDD Month to Date,78,188,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+8,HDD Since July 1,5883,5959,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+9,Cooling Degree Days,15,4,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+10,CDD Month to Date,164,61,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+11,CDD Year to Date,164,74,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+12,Growing Degree Days,30,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+13,Dew Point,67,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+14,High,69,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+15,Low,64,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+16,Average,67,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+17,Max Wind Speed,23,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+18,Visibility,10,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+19,Sea Level Pressure,29.73,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+20,Actual Time,14h 59m,5:19 AM,8:19 PM,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+21,Civil Twilight,,4:46 AM,8:53 PM,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+22,Nautical Twilight,,4:03 AM,9:35 PM,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+23,Astronomical Twilight,,3:13 AM,10:25 PM,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018
+24,Moon: waning gibbous,,10:10 PM,7:01 AM,,41.88,-87.63,Chicago Loop,KILCHICA594,5-31-2018

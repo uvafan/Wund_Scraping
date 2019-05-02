@@ -1,0 +1,30 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,34 F,32 F,92 %,NNW,12 mph,0 mph,29.5 in,0.1 in,0.0 in,Light Rain,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+1,8:34 PM,34 F,32 F,92 %,NNW,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+2,8:53 PM,34 F,31 F,89 %,NW,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+3,9:26 PM,33 F,31 F,92 %,NNW,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Rain,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+4,9:47 PM,34 F,30 F,87 %,NNW,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Wintry Mix,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+5,9:53 PM,33 F,30 F,89 %,NNW,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+6,10:30 PM,33 F,27 F,78 %,N,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+7,10:53 PM,32 F,27 F,82 %,NNW,16 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+8,11:53 PM,32 F,27 F,82 %,NNW,14 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+9,12:53 AM,31 F,25 F,79 %,NNW,15 mph,0 mph,29.7 in,0.0 in,1.2 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+10,1:53 AM,30 F,24 F,79 %,NNW,13 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+11,2:12 AM,30 F,24 F,79 %,NNW,12 mph,0 mph,29.8 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+12,2:53 AM,29 F,22 F,75 %,N,14 mph,0 mph,29.8 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+13,3:53 AM,30 F,21 F,69 %,N,9 mph,0 mph,29.8 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+14,4:53 AM,30 F,21 F,69 %,N,10 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+15,5:53 AM,32 F,22 F,66 %,NNE,8 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+16,6:53 AM,32 F,21 F,64 %,NE,12 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+17,7:53 AM,32 F,20 F,61 %,ENE,12 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+18,8:53 AM,32 F,21 F,64 %,NE,13 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+19,9:53 AM,31 F,20 F,64 %,NNE,12 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+20,10:53 AM,31 F,20 F,64 %,NNE,13 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+21,11:53 AM,30 F,20 F,66 %,NE,12 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+22,12:53 PM,29 F,20 F,69 %,NNE,14 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+23,1:53 PM,29 F,21 F,72 %,NNE,13 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+24,2:53 PM,30 F,22 F,72 %,NNE,16 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+25,3:53 PM,30 F,22 F,72 %,NNE,15 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+26,4:53 PM,30 F,23 F,75 %,NNE,13 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+27,5:53 PM,31 F,23 F,72 %,NE,12 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018
+28,6:53 PM,31 F,23 F,72 %,ENE,17 mph,0 mph,29.9 in,0.0 in,0.0 in,Cloudy,41.88,-87.68,United Center,KILCHICA498,2-21-2018

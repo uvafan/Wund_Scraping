@@ -1,0 +1,34 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,68 F,62 F,81 %,SSW,16 mph,0 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+1,8:03 PM,67 F,62 F,84 %,SSW,17 mph,24 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+2,8:53 PM,67 F,62 F,84 %,SSW,15 mph,0 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+3,9:35 PM,67 F,62 F,84 %,SSW,17 mph,25 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+4,9:51 PM,66 F,63 F,88 %,SW,17 mph,26 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+5,9:53 PM,67 F,62 F,84 %,SSW,15 mph,26 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+6,10:53 PM,68 F,62 F,81 %,SW,21 mph,30 mph,29.0 in,0.0 in,0.0 in,Cloudy / Windy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+7,11:08 PM,67 F,62 F,84 %,SSW,17 mph,30 mph,29.0 in,0.0 in,0.0 in,Fair,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+8,11:37 PM,67 F,61 F,81 %,SW,20 mph,28 mph,29.0 in,0.0 in,0.0 in,Mostly Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+9,11:53 PM,67 F,61 F,81 %,SW,23 mph,37 mph,29.0 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+10,12:53 AM,67 F,61 F,81 %,SW,25 mph,36 mph,29.0 in,0.0 in,0.0 in,Partly Cloudy / Windy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+11,1:42 AM,67 F,61 F,81 %,WSW,25 mph,38 mph,29.0 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+12,1:53 AM,67 F,60 F,79 %,WSW,28 mph,39 mph,29.0 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+13,2:31 AM,67 F,57 F,70 %,W,22 mph,40 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+14,2:53 AM,67 F,55 F,66 %,W,29 mph,41 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+15,3:17 AM,65 F,54 F,68 %,W,24 mph,37 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+16,3:53 AM,65 F,52 F,63 %,WNW,21 mph,33 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+17,4:02 AM,65 F,52 F,63 %,NW,20 mph,26 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+18,4:53 AM,65 F,50 F,58 %,WNW,21 mph,30 mph,29.2 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+19,5:53 AM,64 F,50 F,60 %,WNW,18 mph,23 mph,29.2 in,0.0 in,0.0 in,Mostly Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+20,6:53 AM,66 F,49 F,54 %,NW,15 mph,22 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+21,7:53 AM,70 F,50 F,49 %,W,12 mph,18 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+22,8:53 AM,71 F,49 F,45 %,W,13 mph,0 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+23,9:53 AM,73 F,48 F,41 %,WNW,16 mph,26 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+24,10:53 AM,73 F,49 F,42 %,W,14 mph,0 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+25,11:53 AM,75 F,46 F,36 %,WNW,15 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+26,12:53 PM,74 F,47 F,38 %,W,12 mph,16 mph,29.3 in,0.0 in,0.0 in,Fair,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+27,1:53 PM,73 F,48 F,41 %,W,15 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+28,2:53 PM,72 F,47 F,41 %,W,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+29,3:53 PM,71 F,47 F,42 %,SW,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+30,4:53 PM,69 F,47 F,45 %,S,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+31,5:53 PM,68 F,47 F,47 %,SSW,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018
+32,6:53 PM,65 F,48 F,54 %,SSW,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,5-4-2018

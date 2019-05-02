@@ -1,0 +1,47 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,30 F,21 F,69 %,E,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+1,8:53 PM,30 F,21 F,69 %,E,15 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+2,9:53 PM,30 F,22 F,72 %,E,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+3,10:53 PM,30 F,23 F,75 %,E,13 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+4,11:21 PM,30 F,23 F,75 %,E,14 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+5,11:30 PM,29 F,24 F,82 %,E,12 mph,22 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+6,11:53 PM,29 F,26 F,89 %,E,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+7,12:16 AM,29 F,26 F,89 %,E,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+8,12:29 AM,29 F,26 F,89 %,E,13 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+9,12:53 AM,29 F,26 F,89 %,E,14 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+10,1:02 AM,29 F,26 F,89 %,E,13 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Snow,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+11,1:14 AM,29 F,26 F,89 %,E,15 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Snow,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+12,1:53 AM,29 F,27 F,92 %,E,15 mph,25 mph,29.3 in,0.0 in,0.0 in,Light Snow,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+13,2:17 AM,29 F,27 F,92 %,E,17 mph,25 mph,29.3 in,0.0 in,0.0 in,Light Snow,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+14,2:51 AM,30 F,28 F,93 %,E,14 mph,26 mph,29.3 in,0.0 in,0.0 in,Wintry Mix,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+15,2:53 AM,31 F,29 F,92 %,E,13 mph,26 mph,29.3 in,0.0 in,0.0 in,Wintry Mix,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+16,3:08 AM,31 F,29 F,92 %,E,18 mph,25 mph,29.3 in,0.0 in,0.0 in,Wintry Mix,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+17,3:53 AM,30 F,28 F,92 %,E,17 mph,28 mph,29.2 in,0.0 in,0.0 in,Wintry Mix,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+18,4:18 AM,31 F,29 F,92 %,ESE,16 mph,0 mph,29.2 in,0.0 in,0.0 in,Wintry Mix,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+19,4:43 AM,31 F,30 F,96 %,ESE,13 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+20,4:53 AM,31 F,30 F,96 %,ESE,15 mph,24 mph,29.2 in,0.0 in,0.0 in,Fog,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+21,5:03 AM,32 F,30 F,92 %,ESE,20 mph,26 mph,29.2 in,0.0 in,0.0 in,Wintry Mix,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+22,5:21 AM,32 F,30 F,92 %,ESE,16 mph,25 mph,29.2 in,0.0 in,0.0 in,Wintry Mix,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+23,5:42 AM,32 F,30 F,92 %,ESE,16 mph,0 mph,29.1 in,0.0 in,0.0 in,Fog,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+24,5:53 AM,32 F,30 F,92 %,SE,14 mph,0 mph,29.1 in,0.0 in,0.0 in,Fog,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+25,6:04 AM,32 F,31 F,96 %,SE,15 mph,0 mph,29.1 in,0.0 in,0.0 in,Wintry Mix,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+26,6:24 AM,33 F,31 F,92 %,SE,12 mph,23 mph,29.1 in,0.0 in,0.0 in,Fog,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+27,6:46 AM,33 F,31 F,92 %,SE,14 mph,21 mph,29.1 in,0.0 in,0.0 in,Light Drizzle,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+28,6:53 AM,33 F,32 F,96 %,SSE,12 mph,0 mph,29.1 in,0.0 in,0.0 in,Light Drizzle,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+29,7:11 AM,33 F,32 F,96 %,SE,12 mph,0 mph,29.1 in,0.0 in,0.0 in,Light Drizzle,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+30,7:53 AM,34 F,33 F,96 %,SSE,10 mph,0 mph,29.1 in,0.0 in,0.0 in,Light Drizzle,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+31,8:53 AM,36 F,35 F,97 %,S,12 mph,0 mph,29.0 in,0.0 in,0.0 in,Light Drizzle,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+32,9:31 AM,36 F,35 F,97 %,SSW,12 mph,24 mph,29.0 in,0.0 in,0.0 in,Light Drizzle,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+33,9:53 AM,36 F,35 F,97 %,SSW,14 mph,23 mph,29.0 in,0.0 in,0.0 in,Light Drizzle,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+34,10:53 AM,36 F,35 F,97 %,SW,14 mph,0 mph,29.0 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+35,11:15 AM,36 F,34 F,93 %,WSW,18 mph,29 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+36,11:53 AM,36 F,33 F,89 %,WSW,17 mph,24 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+37,12:53 PM,35 F,33 F,92 %,WSW,16 mph,26 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+38,1:53 PM,35 F,32 F,89 %,WSW,15 mph,25 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+39,2:53 PM,35 F,31 F,85 %,WSW,20 mph,29 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+40,3:23 PM,35 F,30 F,82 %,WSW,17 mph,0 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+41,3:53 PM,35 F,30 F,82 %,WSW,16 mph,28 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+42,4:53 PM,35 F,29 F,78 %,WSW,14 mph,26 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+43,5:15 PM,35 F,28 F,76 %,WSW,21 mph,29 mph,29.2 in,0.0 in,0.0 in,Cloudy / Windy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+44,5:53 PM,35 F,26 F,70 %,WSW,16 mph,29 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019
+45,6:53 PM,34 F,24 F,67 %,W,18 mph,32 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-20-2019

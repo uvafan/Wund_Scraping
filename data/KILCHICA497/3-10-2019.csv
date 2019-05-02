@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,39,44,70,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+1,Low Temp,30,29,5,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+2,Day Average Temp,35,37,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+3,Precipitation,0,0.08,1.12,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+4,Month to Date,0.37,0.85,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+5,Year to Date,3.28,4.85,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+6,Heating Degree Days,30,28,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+7,HDD Month to Date,402,300,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+8,HDD Since July 1,5033,4811,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+9,Cooling Degree Days,0,0,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+10,CDD Month to Date,0,0,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+11,CDD Year to Date,0,0,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+12,Growing Degree Days,0,-,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+13,Dew Point,27,-,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+14,High,33,-,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+15,Low,20,-,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+16,Average,27,-,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+17,Max Wind Speed,37,-,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+18,Visibility,10,-,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+19,Sea Level Pressure,30.29,-,-,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+20,Actual Time,11h 39m,7:12 AM,6:51 PM,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+21,Civil Twilight,,6:44 AM,7:19 PM,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+22,Nautical Twilight,,6:12 AM,7:52 PM,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+23,Astronomical Twilight,,5:40 AM,8:24 PM,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019
+24,Moon: waxing crescent,,10:24 AM,11:53 PM,,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,3-10-2019

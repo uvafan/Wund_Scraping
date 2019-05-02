@@ -1,0 +1,33 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:35 PM,30 F,22 F,72 %,NW,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+1,7:46 PM,30 F,22 F,72 %,NW,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+2,7:53 PM,30 F,22 F,72 %,NW,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+3,8:53 PM,30 F,21 F,69 %,NW,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+4,9:53 PM,30 F,21 F,69 %,NW,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+5,10:53 PM,30 F,20 F,66 %,NW,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+6,11:53 PM,30 F,20 F,66 %,NW,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+7,12:53 AM,30 F,20 F,66 %,NW,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+8,1:39 AM,30 F,21 F,69 %,NW,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+9,1:51 AM,30 F,21 F,69 %,NW,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+10,1:53 AM,30 F,20 F,66 %,NW,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+11,2:53 AM,31 F,20 F,64 %,NNW,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+12,3:11 AM,30 F,20 F,66 %,NW,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+13,3:53 AM,31 F,22 F,69 %,NNW,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+14,4:53 AM,31 F,22 F,69 %,NW,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+15,5:03 AM,31 F,22 F,69 %,NW,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+16,5:53 AM,32 F,22 F,66 %,WNW,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+17,6:20 AM,31 F,22 F,69 %,NW,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+18,6:53 AM,32 F,22 F,66 %,NW,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+19,7:53 AM,32 F,22 F,66 %,NW,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+20,8:41 AM,32 F,21 F,64 %,NW,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+21,8:53 AM,32 F,21 F,64 %,NW,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+22,9:53 AM,32 F,22 F,66 %,WNW,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+23,10:53 AM,32 F,22 F,66 %,NW,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+24,11:53 AM,31 F,22 F,69 %,WNW,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+25,12:53 PM,31 F,22 F,69 %,W,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+26,1:53 PM,30 F,21 F,69 %,W,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+27,2:53 PM,30 F,20 F,66 %,W,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+28,3:53 PM,30 F,17 F,59 %,WNW,9 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+29,4:53 PM,30 F,18 F,61 %,WSW,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+30,5:53 PM,29 F,18 F,64 %,WNW,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018
+31,6:53 PM,28 F,21 F,75 %,W,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.83,-87.63,Ilinois Tech,KILCHICA534,12-4-2018

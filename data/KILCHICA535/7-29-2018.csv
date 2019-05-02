@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,80,84,101,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+1,Low Temp,64,68,50,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+2,Day Average Temp,72,76,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+3,Precipitation,1e-16,0.14,1.47,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+4,Month to Date,1.93,3.72,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+5,Year to Date,21.79,22.27,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+6,Heating Degree Days,0,0,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+7,HDD Month to Date,0,0,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+8,HDD Since July 1,0,0,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+9,Cooling Degree Days,7,11,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+10,CDD Month to Date,359,317,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+11,CDD Year to Date,758,601,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+12,Growing Degree Days,22,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+13,Dew Point,57,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+14,High,60,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+15,Low,54,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+16,Average,57,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+17,Max Wind Speed,18,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+18,Visibility,10,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+19,Sea Level Pressure,30.11,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+20,Actual Time,14h 31m,5:42 AM,8:14 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+21,Civil Twilight,,5:10 AM,8:45 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+22,Nautical Twilight,,4:31 AM,9:25 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+23,Astronomical Twilight,,3:46 AM,10:09 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018
+24,Moon: waning gibbous,,9:26 PM,7:15 AM,,41.89,-87.69,Ukranian Village,KILCHICA535,7-29-2018

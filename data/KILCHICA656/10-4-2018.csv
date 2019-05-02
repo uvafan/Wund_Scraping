@@ -1,0 +1,31 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,80 F,66 F,62 %,SW,17 mph,26 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+1,8:53 PM,75 F,68 F,79 %,WSW,14 mph,24 mph,29.1 in,0.1 in,0.0 in,Light Rain,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+2,9:53 PM,73 F,68 F,84 %,W,10 mph,0 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+3,10:08 PM,73 F,69 F,87 %,W,10 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+4,10:53 PM,72 F,66 F,81 %,NW,18 mph,0 mph,29.2 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+5,11:36 PM,70 F,63 F,78 %,NNW,20 mph,31 mph,29.2 in,0.0 in,0.0 in,Partly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+6,11:53 PM,69 F,63 F,81 %,NNW,13 mph,0 mph,29.2 in,0.0 in,0.0 in,Partly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+7,12:19 AM,67 F,57 F,70 %,NW,15 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+8,12:53 AM,64 F,56 F,75 %,NW,13 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+9,1:53 AM,63 F,54 F,72 %,NNW,12 mph,24 mph,29.3 in,0.0 in,0.1 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+10,2:53 AM,61 F,49 F,64 %,N,18 mph,24 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+11,3:53 AM,58 F,45 F,62 %,N,18 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+12,4:11 AM,58 F,45 F,62 %,N,16 mph,24 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+13,4:33 AM,57 F,45 F,64 %,N,17 mph,26 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+14,4:53 AM,56 F,45 F,67 %,N,16 mph,25 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+15,5:53 AM,56 F,45 F,67 %,N,20 mph,26 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+16,6:53 AM,58 F,44 F,60 %,NNE,17 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+17,7:33 AM,59 F,44 F,58 %,NNE,16 mph,28 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+18,7:53 AM,59 F,44 F,58 %,N,16 mph,31 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+19,8:53 AM,57 F,43 F,59 %,N,17 mph,28 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+20,9:53 AM,57 F,43 F,59 %,NNE,14 mph,28 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+21,10:53 AM,57 F,42 F,57 %,NNE,16 mph,29 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+22,11:53 AM,56 F,42 F,60 %,NNE,18 mph,26 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+23,12:53 PM,54 F,42 F,64 %,NE,17 mph,26 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+24,1:53 PM,53 F,41 F,64 %,NNE,16 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+25,2:53 PM,53 F,43 F,69 %,NNE,17 mph,25 mph,29.5 in,0.0 in,0.0 in,Fair,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+26,3:53 PM,53 F,44 F,71 %,NE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+27,4:53 PM,55 F,45 F,69 %,ENE,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+28,5:53 PM,56 F,45 F,67 %,E,14 mph,20 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018
+29,6:53 PM,58 F,45 F,62 %,E,15 mph,22 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.8,-87.75,JerComm WX,KILCHICA656,10-4-2018

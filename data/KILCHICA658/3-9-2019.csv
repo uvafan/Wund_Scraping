@@ -1,0 +1,21 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,44.0,44,69,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+1,Low Temp,29.0,29,3,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+2,Day Average Temp,37.0,36,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+3,Precipitation,0.37,0.08,1.41,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+4,Month to Date,0.37,0.77,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+5,Year to Date,3.28,4.77,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+6,Heating Degree Days,28.0,29,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+7,HDD Month to Date,372.0,272,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+8,HDD Since July 1,5003.0,4783,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+9,Cooling Degree Days,0.0,0,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+10,CDD Month to Date,0.0,0,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+11,CDD Year to Date,0.0,0,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+12,Growing Degree Days,0.0,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+13,Dew Point,34.0,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+14,High,43.0,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+15,Low,25.0,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+16,Average,34.0,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+17,Max Wind Speed,33.0,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+18,Visibility,10.0,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019
+19,Sea Level Pressure,30.14,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,3-9-2019

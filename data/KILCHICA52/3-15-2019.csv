@@ -1,0 +1,35 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,41 F,35 F,79 %,WSW,24 mph,39 mph,28.9 in,0.0 in,0.0 in,Cloudy / Windy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+1,8:22 PM,40 F,35 F,83 %,WSW,23 mph,43 mph,28.9 in,0.0 in,0.0 in,Light Drizzle / Windy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+2,8:53 PM,40 F,34 F,79 %,WSW,22 mph,37 mph,29.0 in,0.0 in,0.0 in,Cloudy / Windy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+3,9:13 PM,39 F,35 F,86 %,WSW,22 mph,37 mph,29.0 in,0.0 in,0.0 in,Light Drizzle / Windy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+4,9:53 PM,39 F,35 F,86 %,WSW,24 mph,32 mph,29.0 in,0.0 in,0.0 in,Light Drizzle / Windy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+5,10:50 PM,37 F,36 F,93 %,WSW,22 mph,29 mph,29.0 in,0.0 in,0.0 in,Light Drizzle / Windy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+6,10:53 PM,38 F,35 F,89 %,WSW,20 mph,29 mph,29.0 in,0.0 in,0.0 in,Light Drizzle,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+7,11:27 PM,38 F,35 F,89 %,WSW,18 mph,26 mph,29.0 in,0.0 in,0.0 in,Light Drizzle,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+8,11:53 PM,38 F,35 F,89 %,WSW,18 mph,26 mph,29.0 in,0.0 in,0.0 in,Light Drizzle,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+9,12:04 AM,38 F,35 F,89 %,WSW,17 mph,25 mph,29.0 in,0.0 in,0.0 in,Light Drizzle,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+10,12:53 AM,37 F,37 F,100 %,WSW,14 mph,24 mph,29.1 in,0.0 in,0.0 in,Light Drizzle,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+11,1:44 AM,37 F,37 F,100 %,W,13 mph,23 mph,29.1 in,0.0 in,0.0 in,Light Drizzle,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+12,1:53 AM,37 F,37 F,100 %,W,15 mph,0 mph,29.1 in,0.0 in,0.3 in,Light Drizzle,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+13,2:53 AM,37 F,36 F,96 %,W,18 mph,24 mph,29.1 in,0.0 in,0.0 in,Light Drizzle,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+14,3:38 AM,37 F,34 F,89 %,W,15 mph,24 mph,29.1 in,0.0 in,0.0 in,Light Drizzle,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+15,3:53 AM,37 F,34 F,89 %,W,14 mph,0 mph,29.1 in,0.0 in,0.0 in,Light Drizzle,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+16,4:53 AM,37 F,34 F,89 %,W,12 mph,23 mph,29.2 in,0.0 in,0.0 in,Light Drizzle,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+17,5:48 AM,36 F,34 F,93 %,W,14 mph,26 mph,29.2 in,0.0 in,0.0 in,Light Rain,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+18,5:53 AM,37 F,34 F,89 %,W,20 mph,26 mph,29.2 in,0.0 in,0.0 in,Light Rain,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+19,6:30 AM,37 F,33 F,86 %,W,15 mph,23 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+20,6:53 AM,37 F,32 F,82 %,W,16 mph,25 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+21,7:13 AM,36 F,33 F,89 %,W,17 mph,26 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+22,7:53 AM,36 F,33 F,89 %,W,15 mph,29 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+23,8:53 AM,36 F,30 F,79 %,W,20 mph,36 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+24,9:53 AM,37 F,29 F,73 %,W,18 mph,35 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+25,10:53 AM,37 F,28 F,70 %,W,12 mph,28 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+26,11:53 AM,38 F,28 F,68 %,W,17 mph,26 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+27,12:53 PM,40 F,27 F,60 %,WNW,13 mph,25 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+28,1:53 PM,40 F,25 F,55 %,W,14 mph,21 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+29,2:53 PM,39 F,22 F,50 %,W,14 mph,28 mph,29.4 in,0.0 in,0.0 in,Fair,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+30,3:53 PM,38 F,23 F,55 %,W,18 mph,29 mph,29.4 in,0.0 in,0.0 in,Fair,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+31,4:53 PM,36 F,23 F,59 %,W,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+32,5:53 PM,35 F,22 F,59 %,W,14 mph,25 mph,29.5 in,0.0 in,0.0 in,Fair,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019
+33,6:53 PM,34 F,21 F,59 %,W,12 mph,21 mph,29.5 in,0.0 in,0.0 in,Fair,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,3-15-2019

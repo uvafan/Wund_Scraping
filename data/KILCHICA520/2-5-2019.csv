@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,34,33,56,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+1,Low Temp,27,19,-17,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+2,Day Average Temp,31,26,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+3,Precipitation,0.26,0.06,0.68,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+4,Month to Date,0.28,0.28,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+5,Year to Date,1.38,2.34,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+6,Heating Degree Days,34,39,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+7,HDD Month to Date,169,196,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+8,HDD Since July 1,3747,3692,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+9,Cooling Degree Days,0,0,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+10,CDD Month to Date,0,0,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+11,CDD Year to Date,0,0,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+12,Growing Degree Days,0,-,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+13,Dew Point,27,-,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+14,High,33,-,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+15,Low,20,-,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+16,Average,27,-,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+17,Max Wind Speed,21,-,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+18,Visibility,10,-,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+19,Sea Level Pressure,30.2,-,-,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+20,Actual Time,10h 10m,7:00 AM,5:11 PM,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+21,Civil Twilight,,6:31 AM,5:40 PM,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+22,Nautical Twilight,,5:58 AM,6:13 PM,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+23,Astronomical Twilight,,5:25 AM,6:46 PM,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019
+24,Moon: new moon,,8:37 AM,7:02 PM,,41.88,-87.65,West Loop,KILCHICA520,2-5-2019

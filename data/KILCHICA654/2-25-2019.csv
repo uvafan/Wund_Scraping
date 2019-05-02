@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,23,39,73,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+1,Low Temp,8,25,-5,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+2,Day Average Temp,16,32,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+3,Precipitation,0,0.09,0.62,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+4,Month to Date,1.83,1.69,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+5,Year to Date,2.93,3.75,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+6,Heating Degree Days,49,33,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+7,HDD Month to Date,926,916,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+8,HDD Since July 1,4504,4412,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+9,Cooling Degree Days,0,0,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+10,CDD Month to Date,0,0,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+11,CDD Year to Date,0,0,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+12,Growing Degree Days,0,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+13,Dew Point,-1,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+14,High,3,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+15,Low,-4,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+16,Average,-1,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+17,Max Wind Speed,28,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+18,Visibility,10,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+19,Sea Level Pressure,30.55,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+20,Actual Time,11h 3m,6:33 AM,5:37 PM,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+21,Civil Twilight,,6:05 AM,6:05 PM,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+22,Nautical Twilight,,5:33 AM,6:37 PM,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+23,Astronomical Twilight,,5:01 AM,7:09 PM,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019
+24,Moon: waning gibbous,,12:44 AM,11:17 AM,,41.81,-87.73,Archer Heights,KILCHICA654,2-25-2019

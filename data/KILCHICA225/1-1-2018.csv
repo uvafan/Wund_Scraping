@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,3,32,52,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+1,Low Temp,-7,19,-10,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+2,Day Average Temp,-2,26,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+3,Precipitation,0,0.08,1.33,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+4,Month to Date,0,0.08,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+5,Year to Date,0,0.08,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+6,Heating Degree Days,67,39,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+7,HDD Month to Date,67,39,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+8,HDD Since July 1,2177,2290,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+9,Cooling Degree Days,0,0,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+10,CDD Month to Date,0,0,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+11,CDD Year to Date,0,0,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+12,Growing Degree Days,0,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+13,Dew Point,-12,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+14,High,-9,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+15,Low,-16,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+16,Average,-12,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+17,Max Wind Speed,17,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+18,Visibility,10,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+19,Sea Level Pressure,30.81,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+20,Actual Time,9h 12m,7:19 AM,4:31 PM,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+21,Civil Twilight,,6:48 AM,5:03 PM,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+22,Nautical Twilight,,6:13 AM,5:38 PM,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+23,Astronomical Twilight,,5:39 AM,6:11 PM,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018
+24,Moon: full moon,,5:28 PM,7:33 AM,,41.82,-87.7,Brighton Park,KILCHICA225,1-1-2018

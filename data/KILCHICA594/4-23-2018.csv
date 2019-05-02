@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,64,62,88,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+1,Low Temp,43,44,28,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+2,Day Average Temp,54,53,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+3,Precipitation,1e-16,0.12,0.83,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+4,Month to Date,1.4,2.76,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+5,Year to Date,8.04,9.48,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+6,Heating Degree Days,11,12,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+7,HDD Month to Date,572,373,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+8,HDD Since July 1,5703,5696,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+9,Cooling Degree Days,0,1,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+10,CDD Month to Date,0,5,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+11,CDD Year to Date,0,6,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+12,Growing Degree Days,3,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+13,Dew Point,30,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+14,High,35,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+15,Low,26,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+16,Average,30,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+17,Max Wind Speed,17,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+18,Visibility,10,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+19,Sea Level Pressure,30.24,-,-,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+20,Actual Time,13h 41m,5:59 AM,7:40 PM,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+21,Civil Twilight,,5:29 AM,8:10 PM,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+22,Nautical Twilight,,4:53 AM,8:46 PM,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+23,Astronomical Twilight,,4:15 AM,9:24 PM,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018
+24,Moon: waxing gibbous,,12:49 PM,2:35 AM,,41.88,-87.63,Chicago Loop,KILCHICA594,4-23-2018

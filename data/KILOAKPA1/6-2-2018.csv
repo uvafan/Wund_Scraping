@@ -1,0 +1,21 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,74.0,76,92,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+1,Low Temp,53.0,57,44,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+2,Day Average Temp,64.0,66,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+3,Precipitation,0.54,0.14,2.35,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+4,Month to Date,0.54,0.29,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+5,Year to Date,12.8,14.78,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+6,Heating Degree Days,1.0,3,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+7,HDD Month to Date,1.0,6,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+8,HDD Since July 1,5884.0,5965,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+9,Cooling Degree Days,0.0,4,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+10,CDD Month to Date,2.0,8,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+11,CDD Year to Date,166.0,82,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+12,Growing Degree Days,13.0,-,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+13,Dew Point,55.0,-,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+14,High,64.0,-,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+15,Low,46.0,-,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+16,Average,55.0,-,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+17,Max Wind Speed,16.0,-,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+18,Visibility,10.0,-,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018
+19,Sea Level Pressure,30.01,-,-,,41.87,-87.79,Oak Park,KILOAKPA1,6-2-2018

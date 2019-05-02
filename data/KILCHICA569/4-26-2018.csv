@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,66,64,91,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+1,Low Temp,36,45,29,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+2,Day Average Temp,51,55,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+3,Precipitation,0,0.13,0.84,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+4,Month to Date,1.4,3.13,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+5,Year to Date,8.04,9.85,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+6,Heating Degree Days,14,11,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+7,HDD Month to Date,613,408,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+8,HDD Since July 1,5744,5731,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+9,Cooling Degree Days,0,1,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+10,CDD Month to Date,0,8,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+11,CDD Year to Date,0,9,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+12,Growing Degree Days,0,-,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+13,Dew Point,29,-,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+14,High,32,-,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+15,Low,26,-,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+16,Average,29,-,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+17,Max Wind Speed,14,-,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+18,Visibility,10,-,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+19,Sea Level Pressure,30.01,-,-,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+20,Actual Time,13h 49m,5:54 AM,7:44 PM,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+21,Civil Twilight,,5:25 AM,8:14 PM,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+22,Nautical Twilight,,4:48 AM,8:50 PM,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+23,Astronomical Twilight,,4:09 AM,9:30 PM,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018
+24,Moon: waxing gibbous,,4:14 PM,4:28 AM,,41.91,-87.7,Logan Square,KILCHICA569,4-26-2018

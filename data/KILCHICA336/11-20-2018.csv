@@ -1,0 +1,29 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,31 F,21 F,67 %,NNW,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+1,8:53 PM,30 F,22 F,72 %,NNW,14 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+2,9:03 PM,30 F,22 F,72 %,NW,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+3,9:49 PM,30 F,21 F,69 %,NNW,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+4,9:53 PM,30 F,22 F,72 %,NNW,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+5,10:35 PM,30 F,22 F,72 %,NW,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+6,10:53 PM,30 F,22 F,72 %,NW,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+7,11:53 PM,30 F,22 F,72 %,NW,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+8,12:53 AM,31 F,22 F,69 %,NW,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+9,1:53 AM,30 F,22 F,72 %,NW,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+10,2:53 AM,31 F,23 F,72 %,NW,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+11,3:53 AM,32 F,23 F,69 %,NNW,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+12,4:33 AM,33 F,23 F,66 %,NW,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+13,4:53 AM,34 F,22 F,61 %,WNW,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Partly Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+14,5:53 AM,35 F,22 F,59 %,W,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+15,6:53 AM,35 F,21 F,57 %,W,9 mph,20 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+16,7:53 AM,36 F,21 F,55 %,W,16 mph,24 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+17,8:53 AM,35 F,20 F,54 %,WSW,13 mph,24 mph,29.5 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+18,9:53 AM,34 F,20 F,56 %,WSW,16 mph,25 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+19,10:53 AM,33 F,20 F,59 %,W,17 mph,23 mph,29.5 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+20,11:53 AM,32 F,21 F,64 %,WSW,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+21,12:53 PM,30 F,20 F,66 %,WSW,15 mph,23 mph,29.5 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+22,1:53 PM,30 F,20 F,66 %,WSW,16 mph,22 mph,29.5 in,0.0 in,0.0 in,Fair,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+23,2:53 PM,30 F,20 F,66 %,WSW,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+24,3:53 PM,31 F,21 F,67 %,WSW,17 mph,26 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+25,4:53 PM,32 F,22 F,66 %,WSW,18 mph,25 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+26,5:53 PM,32 F,23 F,69 %,WSW,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018
+27,6:53 PM,33 F,23 F,66 %,WSW,17 mph,26 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,11-20-2018

@@ -1,0 +1,34 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,76 F,66 F,71 %,ESE,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+1,8:53 PM,75 F,65 F,71 %,SE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+2,9:53 PM,74 F,65 F,73 %,SE,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+3,10:53 PM,73 F,64 F,73 %,ESE,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+4,11:53 PM,72 F,64 F,76 %,ESE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+5,12:53 AM,72 F,64 F,76 %,ESE,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+6,1:53 AM,72 F,64 F,76 %,ESE,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+7,2:53 AM,73 F,64 F,73 %,SE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+8,3:53 AM,74 F,64 F,71 %,ESE,13 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+9,4:53 AM,76 F,65 F,69 %,E,12 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+10,5:53 AM,78 F,67 F,68 %,ESE,15 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+11,6:53 AM,77 F,69 F,76 %,E,10 mph,0 mph,29.2 in,0.0 in,0.0 in,Light Rain,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+12,7:37 AM,74 F,71 F,91 %,ESE,8 mph,0 mph,29.2 in,0.1 in,0.0 in,Light Rain,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+13,7:53 AM,75 F,72 F,90 %,E,8 mph,0 mph,29.2 in,0.2 in,0.0 in,Rain,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+14,8:39 AM,76 F,72 F,87 %,ESE,10 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+15,8:53 AM,76 F,72 F,87 %,ESE,17 mph,23 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+16,9:14 AM,77 F,73 F,88 %,E,20 mph,0 mph,29.2 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+17,9:53 AM,77 F,73 F,88 %,E,14 mph,23 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+18,10:00 AM,76 F,72 F,87 %,E,14 mph,0 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+19,10:53 AM,77 F,72 F,84 %,ESE,14 mph,0 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+20,11:53 AM,78 F,73 F,84 %,ESE,13 mph,0 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+21,12:53 PM,79 F,71 F,77 %,ESE,17 mph,22 mph,29.1 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+22,1:41 PM,78 F,71 F,79 %,ESE,16 mph,0 mph,29.1 in,0.0 in,0.0 in,Thunder,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+23,1:53 PM,78 F,72 F,81 %,ESE,13 mph,0 mph,29.1 in,0.0 in,0.0 in,Thunder,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+24,2:53 PM,77 F,73 F,88 %,ESE,9 mph,0 mph,29.1 in,0.0 in,0.0 in,T-Storm,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+25,2:56 PM,77 F,73 F,88 %,ESE,8 mph,0 mph,29.1 in,0.0 in,0.0 in,T-Storm,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+26,3:12 PM,72 F,69 F,91 %,S,12 mph,18 mph,29.1 in,0.1 in,0.0 in,T-Storm,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+27,3:33 PM,72 F,69 F,91 %,CALM,0 mph,0 mph,29.1 in,0.1 in,0.0 in,Light Rain with Thunder,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+28,3:53 PM,72 F,69 F,91 %,SSE,6 mph,0 mph,29.1 in,0.1 in,0.0 in,Thunder,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+29,4:20 PM,72 F,69 F,91 %,SE,8 mph,0 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+30,4:53 PM,71 F,68 F,90 %,E,5 mph,0 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+31,5:53 PM,71 F,69 F,93 %,CALM,0 mph,0 mph,29.1 in,0.0 in,0.0 in,Light Rain,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018
+32,6:53 PM,71 F,68 F,90 %,SE,7 mph,0 mph,29.1 in,0.0 in,0.0 in,Cloudy,41.91,-87.68,Wicker Park,KILCHICA616,8-20-2018

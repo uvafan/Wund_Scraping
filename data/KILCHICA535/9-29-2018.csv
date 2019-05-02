@@ -1,0 +1,25 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,47 F,42 F,83 %,NW,5 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+1,8:53 PM,47 F,40 F,77 %,WNW,3 mph,0 mph,29.6 in,0.0 in,0.0 in,Partly Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+2,9:53 PM,45 F,39 F,80 %,W,3 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+3,10:53 PM,44 F,39 F,82 %,WNW,3 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+4,11:53 PM,43 F,38 F,82 %,WNW,3 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+5,12:53 AM,43 F,38 F,82 %,WNW,3 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+6,1:53 AM,42 F,37 F,82 %,WNW,3 mph,0 mph,29.7 in,0.0 in,0.1 in,Partly Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+7,2:53 AM,46 F,38 F,73 %,CALM,0 mph,0 mph,29.7 in,0.0 in,0.0 in,Partly Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+8,3:53 AM,51 F,40 F,66 %,CALM,0 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+9,4:53 AM,56 F,35 F,45 %,NNE,8 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+10,5:53 AM,59 F,34 F,39 %,VAR,3 mph,0 mph,29.7 in,0.0 in,0.0 in,Partly Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+11,6:53 AM,58 F,32 F,37 %,CALM,0 mph,0 mph,29.7 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+12,7:53 AM,58 F,34 F,41 %,ENE,6 mph,0 mph,29.7 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+13,8:53 AM,58 F,35 F,42 %,E,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+14,9:53 AM,58 F,35 F,42 %,E,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+15,10:53 AM,57 F,34 F,42 %,E,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+16,11:53 AM,57 F,35 F,44 %,E,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+17,12:53 PM,57 F,36 F,45 %,ENE,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+18,1:53 PM,57 F,37 F,47 %,E,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+19,2:53 PM,57 F,37 F,47 %,ENE,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+20,3:53 PM,56 F,42 F,60 %,E,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+21,4:53 PM,55 F,44 F,67 %,ENE,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+22,5:53 PM,56 F,45 F,67 %,E,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018
+23,6:53 PM,57 F,47 F,69 %,E,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.89,-87.69,Ukranian Village,KILCHICA535,9-29-2018

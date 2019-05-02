@@ -1,0 +1,30 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,68 F,56 F,65 %,S,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+1,8:53 PM,67 F,56 F,68 %,S,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+2,9:53 PM,66 F,56 F,70 %,SSE,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+3,10:53 PM,66 F,56 F,70 %,SSE,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+4,11:53 PM,66 F,56 F,70 %,SSW,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+5,12:53 AM,67 F,55 F,66 %,S,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+6,1:53 AM,68 F,55 F,63 %,S,13 mph,21 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+7,2:53 AM,69 F,55 F,61 %,S,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+8,3:53 AM,69 F,56 F,63 %,SSW,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+9,4:53 AM,66 F,58 F,75 %,SSW,18 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Rain,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+10,5:53 AM,64 F,60 F,87 %,SSW,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Rain,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+11,6:53 AM,65 F,60 F,84 %,S,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Rain,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+12,7:53 AM,68 F,60 F,76 %,SSW,13 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+13,8:11 AM,69 F,60 F,73 %,S,14 mph,22 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+14,8:53 AM,72 F,59 F,64 %,S,14 mph,24 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+15,9:53 AM,75 F,58 F,55 %,SSE,16 mph,25 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+16,10:53 AM,73 F,58 F,59 %,S,15 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+17,11:53 AM,72 F,59 F,64 %,S,14 mph,24 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+18,12:24 PM,71 F,58 F,63 %,S,18 mph,25 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+19,12:53 PM,69 F,59 F,70 %,S,20 mph,24 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+20,1:49 PM,66 F,63 F,88 %,S,10 mph,21 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+21,1:53 PM,67 F,62 F,84 %,S,14 mph,21 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+22,2:53 PM,67 F,62 F,84 %,S,18 mph,24 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+23,3:53 PM,66 F,62 F,87 %,S,16 mph,21 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+24,4:02 PM,65 F,63 F,93 %,S,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+25,4:25 PM,65 F,63 F,93 %,S,12 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+26,4:53 PM,65 F,63 F,93 %,S,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+27,5:53 PM,65 F,64 F,97 %,S,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018
+28,6:53 PM,65 F,65 F,100 %,S,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.72,-87.71,Evergreen Park,KILEVERG5,8-24-2018

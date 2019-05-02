@@ -1,0 +1,25 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,30 F,21 F,69 %,E,5 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+1,8:53 PM,30 F,21 F,69 %,E,3 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+2,9:53 PM,29 F,21 F,72 %,E,3 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+3,10:53 PM,27 F,20 F,75 %,CALM,0 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+4,11:53 PM,28 F,21 F,75 %,CALM,0 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+5,12:53 AM,26 F,20 F,78 %,CALM,0 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+6,1:53 AM,29 F,22 F,75 %,CALM,0 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+7,2:53 AM,32 F,23 F,69 %,SSE,3 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+8,3:53 AM,35 F,16 F,46 %,ESE,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+9,4:53 AM,36 F,15 F,43 %,SE,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+10,5:53 AM,38 F,14 F,38 %,E,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+11,6:53 AM,39 F,13 F,34 %,E,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+12,7:53 AM,38 F,13 F,36 %,VAR,5 mph,16 mph,29.4 in,0.0 in,0.0 in,Fair,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+13,8:53 AM,39 F,13 F,34 %,NE,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+14,9:53 AM,39 F,13 F,34 %,ENE,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+15,10:53 AM,39 F,13 F,34 %,ENE,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+16,11:53 AM,38 F,12 F,35 %,ENE,14 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+17,12:53 PM,36 F,15 F,43 %,ENE,9 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+18,1:53 PM,35 F,17 F,48 %,E,9 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+19,2:53 PM,34 F,19 F,54 %,E,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+20,3:53 PM,34 F,22 F,61 %,E,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+21,4:53 PM,34 F,24 F,67 %,E,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+22,5:53 PM,33 F,24 F,70 %,ENE,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018
+23,6:53 PM,32 F,25 F,75 %,ENE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy,41.79,-87.59,Hyde Park,KILCHICA505,3-10-2018

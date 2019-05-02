@@ -1,0 +1,31 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,36 F,33 F,89 %,NW,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+1,8:53 PM,36 F,32 F,86 %,NNW,13 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+2,9:53 PM,35 F,32 F,89 %,NNW,9 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+3,10:53 PM,34 F,31 F,89 %,NNW,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+4,11:12 PM,34 F,31 F,89 %,NNW,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+5,11:53 PM,33 F,31 F,92 %,N,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+6,12:53 AM,32 F,29 F,88 %,NNE,12 mph,0 mph,29.5 in,0.0 in,0.7 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+7,1:53 AM,31 F,27 F,85 %,N,15 mph,20 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+8,2:18 AM,31 F,26 F,82 %,NNE,15 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+9,2:53 AM,31 F,26 F,82 %,N,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+10,3:53 AM,31 F,27 F,85 %,N,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+11,4:53 AM,31 F,27 F,85 %,NNW,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+12,5:53 AM,31 F,28 F,89 %,NNW,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+13,6:53 AM,31 F,28 F,89 %,N,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+14,7:53 AM,30 F,26 F,85 %,NNW,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+15,8:53 AM,29 F,25 F,85 %,N,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+16,9:53 AM,29 F,25 F,85 %,NNE,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+17,10:53 AM,29 F,25 F,85 %,NNW,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+18,11:53 AM,28 F,24 F,85 %,NNW,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+19,12:53 PM,28 F,24 F,85 %,NNW,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+20,1:40 PM,28 F,24 F,85 %,NNW,7 mph,0 mph,29.7 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+21,1:53 PM,28 F,24 F,85 %,NNW,7 mph,0 mph,29.7 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+22,2:53 PM,28 F,24 F,85 %,NW,5 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+23,3:53 PM,28 F,24 F,85 %,NNW,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+24,4:33 PM,27 F,24 F,89 %,NNW,5 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+25,4:48 PM,28 F,25 F,86 %,NNW,5 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+26,4:53 PM,27 F,25 F,92 %,NW,5 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+27,5:00 PM,27 F,24 F,89 %,NW,5 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+28,5:53 PM,28 F,25 F,88 %,N,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019
+29,6:53 PM,28 F,25 F,88 %,CALM,0 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.84,-87.66,Chicago IL-Wally World,KILCHICA497,1-1-2019

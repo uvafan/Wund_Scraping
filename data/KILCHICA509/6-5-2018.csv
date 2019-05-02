@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,74,77,98,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+1,Low Temp,56,58,37,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+2,Day Average Temp,65,68,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+3,Precipitation,0.01,0.15,0.75,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+4,Month to Date,0.55,0.74,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+5,Year to Date,12.81,15.23,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+6,Heating Degree Days,0,2,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+7,HDD Month to Date,1,12,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+8,HDD Since July 1,5884,5971,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+9,Cooling Degree Days,0,5,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+10,CDD Month to Date,10,17,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+11,CDD Year to Date,174,91,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+12,Growing Degree Days,15,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+13,Dew Point,47,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+14,High,55,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+15,Low,39,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+16,Average,47,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+17,Max Wind Speed,23,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+18,Visibility,10,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+19,Sea Level Pressure,29.94,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+20,Actual Time,15h 4m,5:18 AM,8:22 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+21,Civil Twilight,,4:44 AM,8:56 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+22,Nautical Twilight,,4:01 AM,9:39 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+23,Astronomical Twilight,,3:10 AM,10:30 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018
+24,Moon: waning gibbous,,12:50 AM,11:30 AM,,41.72,-87.67,Beverly Hills,KILCHICA509,6-5-2018

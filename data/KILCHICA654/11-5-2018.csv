@@ -1,0 +1,21 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,52.0,54,79,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+1,Low Temp,45.0,39,11,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+2,Day Average Temp,49.0,47,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+3,Precipitation,0.29,0.12,1.26,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+4,Month to Date,0.75,0.58,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+5,Year to Date,35.13,33.68,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+6,Heating Degree Days,16.0,18,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+7,HDD Month to Date,90.0,88,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+8,HDD Since July 1,529.0,519,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+9,Cooling Degree Days,0.0,0,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+10,CDD Month to Date,0.0,0,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+11,CDD Year to Date,1408.0,1045,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+12,Growing Degree Days,0.0,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+13,Dew Point,41.0,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+14,High,48.0,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+15,Low,38.0,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+16,Average,41.0,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+17,Max Wind Speed,18.0,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+18,Visibility,10.0,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018
+19,Sea Level Pressure,29.98,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,11-5-2018

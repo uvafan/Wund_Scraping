@@ -1,0 +1,21 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,95.0,83,100,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+1,Low Temp,76.0,67,52,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+2,Day Average Temp,86.0,75,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+3,Precipitation,0.07,0.13,1.11,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+4,Month to Date,0.11,0.69,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+5,Year to Date,21.91,23.25,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+6,Heating Degree Days,0.0,0,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+7,HDD Month to Date,0.0,0,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+8,HDD Since July 1,0.0,1,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+9,Cooling Degree Days,21.0,10,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+10,CDD Month to Date,77.0,50,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+11,CDD Year to Date,851.0,672,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+12,Growing Degree Days,36.0,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+13,Dew Point,67.0,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+14,High,70.0,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+15,Low,62.0,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+16,Average,67.0,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+17,Max Wind Speed,25.0,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+18,Visibility,10.0,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018
+19,Sea Level Pressure,30.08,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,8-5-2018

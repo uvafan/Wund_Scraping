@@ -1,0 +1,25 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,30 F,29 F,96 %,CALM,0 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+1,8:53 PM,32 F,29 F,88 %,CALM,0 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+2,9:53 PM,31 F,28 F,89 %,CALM,0 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+3,10:53 PM,30 F,26 F,85 %,CALM,0 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+4,11:53 PM,29 F,27 F,92 %,SSW,3 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+5,12:53 AM,30 F,27 F,88 %,SSW,5 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+6,1:53 AM,29 F,26 F,89 %,CALM,0 mph,0 mph,29.8 in,0.0 in,0.0 in,Fair,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+7,2:53 AM,30 F,28 F,92 %,CALM,0 mph,0 mph,29.8 in,0.0 in,0.0 in,Partly Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+8,3:53 AM,34 F,30 F,85 %,CALM,0 mph,0 mph,29.8 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+9,4:53 AM,38 F,32 F,79 %,CALM,0 mph,0 mph,29.8 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+10,5:53 AM,43 F,31 F,62 %,CALM,0 mph,0 mph,29.8 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+11,6:53 AM,46 F,31 F,56 %,S,5 mph,0 mph,29.7 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+12,7:53 AM,47 F,30 F,52 %,S,7 mph,0 mph,29.7 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+13,8:53 AM,48 F,29 F,48 %,S,8 mph,0 mph,29.7 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+14,9:53 AM,47 F,30 F,52 %,E,13 mph,0 mph,29.7 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+15,10:53 AM,43 F,31 F,62 %,E,9 mph,0 mph,29.7 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+16,11:53 AM,42 F,31 F,65 %,E,9 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+17,12:53 PM,42 F,32 F,67 %,E,7 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+18,1:53 PM,43 F,31 F,62 %,E,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+19,2:53 PM,43 F,29 F,58 %,ESE,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+20,3:53 PM,44 F,28 F,53 %,SE,16 mph,23 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+21,4:53 PM,43 F,29 F,58 %,ESE,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+22,5:53 PM,43 F,30 F,60 %,SE,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018
+23,6:53 PM,42 F,30 F,62 %,ESE,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.88,-87.63,Chicago Loop,KILCHICA594,12-26-2018

@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,30,36,53,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+1,Low Temp,18,22,-7,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+2,Day Average Temp,24,29,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+3,Precipitation,1e-16,0.07,0.75,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+4,Month to Date,1.23,0.99,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+5,Year to Date,2.33,3.05,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+6,Heating Degree Days,41,36,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+7,HDD Month to Date,602,607,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+8,HDD Since July 1,4180,4103,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+9,Cooling Degree Days,0,0,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+10,CDD Month to Date,0,0,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+11,CDD Year to Date,0,0,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+12,Growing Degree Days,0,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+13,Dew Point,15,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+14,High,21,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+15,Low,6,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+16,Average,15,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+17,Max Wind Speed,18,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+18,Visibility,10,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+19,Sea Level Pressure,30.17,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+20,Actual Time,10h 38m,6:46 AM,5:25 PM,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+21,Civil Twilight,,6:18 AM,5:53 PM,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+22,Nautical Twilight,,5:45 AM,6:26 PM,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+23,Astronomical Twilight,,5:13 AM,6:58 PM,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019
+24,Moon: waxing gibbous,,3:00 PM,5:21 AM,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-16-2019

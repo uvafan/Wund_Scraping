@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,81,80,99,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+1,Low Temp,62,62,40,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+2,Day Average Temp,72,71,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+3,Precipitation,0,0.14,2.58,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+4,Month to Date,2.46,2.04,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+5,Year to Date,14.72,16.53,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+6,Heating Degree Days,0,1,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+7,HDD Month to Date,1,23,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+8,HDD Since July 1,5884,5982,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+9,Cooling Degree Days,7,7,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+10,CDD Month to Date,51,68,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+11,CDD Year to Date,215,142,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+12,Growing Degree Days,22,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+13,Dew Point,52,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+14,High,56,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+15,Low,47,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+16,Average,52,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+17,Max Wind Speed,14,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+18,Visibility,10,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+19,Sea Level Pressure,30.08,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+20,Actual Time,15h 10m,5:16 AM,8:27 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+21,Civil Twilight,,4:42 AM,9:01 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+22,Nautical Twilight,,3:58 AM,9:45 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+23,Astronomical Twilight,,3:06 AM,10:38 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018
+24,Moon: new moon,,6:13 AM,9:27 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,6-14-2018

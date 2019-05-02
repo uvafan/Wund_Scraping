@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,42,50,78,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+1,Low Temp,28,34,10,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+2,Day Average Temp,35,42,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+3,Precipitation,0,0.09,1.95,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+4,Month to Date,0.79,2.14,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+5,Year to Date,6.08,6.14,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+6,Heating Degree Days,30,23,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+7,HDD Month to Date,720,682,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+8,HDD Since July 1,5011,5193,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+9,Cooling Degree Days,0,0,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+10,CDD Month to Date,0,0,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+11,CDD Year to Date,0,0,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+12,Growing Degree Days,0,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+13,Dew Point,16,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+14,High,24,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+15,Low,13,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+16,Average,16,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+17,Max Wind Speed,22,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+18,Visibility,10,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+19,Sea Level Pressure,30.41,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+20,Actual Time,12h 22m,6:46 AM,7:08 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+21,Civil Twilight,,6:18 AM,7:36 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+22,Nautical Twilight,,5:45 AM,8:09 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+23,Astronomical Twilight,,5:12 AM,8:43 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018
+24,Moon: waxing gibbous,,12:45 PM,2:53 AM,,41.83,-87.63,Ilinois Tech,KILCHICA534,3-25-2018

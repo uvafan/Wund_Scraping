@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,53,61,86,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+1,Low Temp,32,44,20,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+2,Day Average Temp,43,53,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+3,Precipitation,1e-16,0.1,0.86,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+4,Month to Date,5.3,2.02,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+5,Year to Date,33.42,31.88,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+6,Heating Degree Days,22,12,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+7,HDD Month to Date,210,189,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+8,HDD Since July 1,257,271,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+9,Cooling Degree Days,0,0,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+10,CDD Month to Date,38,13,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+11,CDD Year to Date,1408,1042,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+12,Growing Degree Days,0,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+13,Dew Point,29,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+14,High,46,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+15,Low,18,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+16,Average,29,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+17,Max Wind Speed,44,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+18,Visibility,10,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+19,Sea Level Pressure,30.34,-,-,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+20,Actual Time,10h 53m,7:10 AM,6:03 PM,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+21,Civil Twilight,,6:42 AM,6:32 PM,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+22,Nautical Twilight,,6:09 AM,7:04 PM,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+23,Astronomical Twilight,,5:37 AM,7:36 PM,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018
+24,Moon: waxing gibbous,,4:32 PM,2:46 AM,,41.91,-87.78,North East Oak Park,KILOAKPA23,10-20-2018

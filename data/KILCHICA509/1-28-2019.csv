@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,35,32,55,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+1,Low Temp,9,18,-13,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+2,Day Average Temp,22,25,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+3,Precipitation,0.25,0.05,0.52,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+4,Month to Date,1.07,1.89,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+5,Year to Date,1.07,1.89,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+6,Heating Degree Days,43,40,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+7,HDD Month to Date,1092,1119,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+8,HDD Since July 1,3360,3370,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+9,Cooling Degree Days,0,0,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+10,CDD Month to Date,0,0,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+11,CDD Year to Date,0,0,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+12,Growing Degree Days,0,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+13,Dew Point,18,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+14,High,33,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+15,Low,-1,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+16,Average,18,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+17,Max Wind Speed,24,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+18,Visibility,10,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+19,Sea Level Pressure,29.94,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+20,Actual Time,9h 53m,7:08 AM,5:01 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+21,Civil Twilight,,6:38 AM,5:31 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+22,Nautical Twilight,,6:04 AM,6:04 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+23,Astronomical Twilight,,5:32 AM,6:37 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019
+24,Moon: waning crescent,,1:50 AM,12:44 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,1-28-2019

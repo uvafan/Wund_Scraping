@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,92,84,95,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+1,Low Temp,69,63,53,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+2,Day Average Temp,81,73,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+3,Precipitation,0,0.11,1.82,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+4,Month to Date,6.29,4.22,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+5,Year to Date,22.09,18.92,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+6,Heating Degree Days,0,0,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+7,HDD Month to Date,3,31,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+8,HDD Since July 1,6324,6217,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+9,Cooling Degree Days,16,8,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+10,CDD Month to Date,190,169,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+11,CDD Year to Date,324,227,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+12,Growing Degree Days,0,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+13,Dew Point,0,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+14,High,0,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+15,Low,0,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+16,Average,0,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+17,Max Wind Speed,17,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+18,Visibility,0,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+19,Sea Level Pressure,0,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+20,Actual Time,15h 11m,5:19 AM,8:31 PM,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+21,Civil Twilight,,4:45 AM,9:05 PM,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+22,Nautical Twilight,,4:01 AM,9:49 PM,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+23,Astronomical Twilight,,3:08 AM,10:41 PM,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018
+24,Moon: waning gibbous,,9:38 PM,6:35 AM,,41.82,-87.7,Brighton Park,KILCHICA225,6-29-2018

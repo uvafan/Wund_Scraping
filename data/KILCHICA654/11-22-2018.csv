@@ -1,0 +1,33 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,34 F,23 F,64 %,E,10 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+1,8:53 PM,33 F,22 F,64 %,ESE,8 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+2,9:53 PM,31 F,21 F,67 %,SE,7 mph,0 mph,29.7 in,0.0 in,0.0 in,Mostly Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+3,10:53 PM,31 F,19 F,61 %,SSE,8 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+4,11:53 PM,31 F,19 F,61 %,SE,7 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+5,12:53 AM,32 F,20 F,61 %,SE,13 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+6,1:53 AM,32 F,21 F,64 %,ESE,14 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+7,2:53 AM,32 F,22 F,66 %,SE,10 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+8,3:43 AM,33 F,22 F,64 %,SE,13 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+9,3:53 AM,33 F,22 F,64 %,SE,10 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+10,4:48 AM,34 F,23 F,65 %,SE,12 mph,21 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+11,4:53 AM,33 F,23 F,66 %,SE,10 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+12,5:15 AM,34 F,24 F,67 %,SSE,8 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+13,5:53 AM,34 F,25 F,70 %,SSE,7 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+14,6:36 AM,35 F,26 F,70 %,SE,12 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+15,6:53 AM,35 F,27 F,72 %,SSE,12 mph,0 mph,29.7 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+16,7:16 AM,37 F,28 F,70 %,SE,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+17,7:41 AM,38 F,28 F,68 %,SE,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Partly Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+18,7:53 AM,38 F,28 F,68 %,ESE,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+19,8:53 AM,39 F,29 F,67 %,SE,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+20,9:53 AM,39 F,28 F,65 %,SE,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+21,10:53 AM,37 F,28 F,70 %,SE,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Partly Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+22,11:22 AM,36 F,28 F,73 %,SE,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+23,11:53 AM,36 F,27 F,70 %,SE,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+24,12:36 PM,35 F,27 F,72 %,SE,13 mph,20 mph,29.6 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+25,12:53 PM,35 F,27 F,72 %,SE,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+26,1:53 PM,34 F,27 F,75 %,SE,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+27,2:53 PM,35 F,27 F,72 %,SSE,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+28,3:53 PM,35 F,28 F,76 %,SSE,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+29,4:53 PM,35 F,28 F,76 %,SSE,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+30,5:53 PM,34 F,29 F,82 %,SSE,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018
+31,6:53 PM,35 F,29 F,78 %,SSE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,11-22-2018

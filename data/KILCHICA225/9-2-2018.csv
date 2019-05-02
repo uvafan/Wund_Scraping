@@ -1,0 +1,28 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,80 F,70 F,71 %,SSW,13 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+1,8:53 PM,79 F,70 F,74 %,SSW,13 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+2,9:53 PM,76 F,67 F,74 %,NNW,12 mph,21 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+3,10:43 PM,74 F,65 F,73 %,NNW,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+4,10:53 PM,74 F,65 F,73 %,NNW,9 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+5,11:53 PM,74 F,65 F,73 %,CALM,0 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+6,12:53 AM,75 F,65 F,71 %,SE,5 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+7,1:53 AM,76 F,65 F,69 %,SE,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+8,2:15 AM,76 F,66 F,71 %,SSE,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+9,2:53 AM,77 F,69 F,76 %,SSE,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+10,3:53 AM,78 F,70 F,76 %,S,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+11,4:53 AM,80 F,71 F,74 %,SSW,13 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+12,5:53 AM,83 F,71 F,67 %,SW,14 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+13,6:53 AM,86 F,71 F,61 %,SW,14 mph,23 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+14,7:23 AM,87 F,71 F,59 %,WSW,15 mph,24 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+15,7:53 AM,89 F,71 F,55 %,SW,16 mph,24 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+16,8:53 AM,90 F,69 F,50 %,SW,16 mph,29 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+17,9:53 AM,91 F,68 F,47 %,SSW,18 mph,25 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+18,10:53 AM,91 F,68 F,47 %,SW,17 mph,25 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+19,11:53 AM,90 F,68 F,48 %,SW,17 mph,25 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+20,12:53 PM,90 F,68 F,48 %,SSW,17 mph,26 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+21,1:53 PM,88 F,67 F,49 %,SSW,14 mph,22 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+22,2:53 PM,86 F,67 F,53 %,SSW,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+23,3:53 PM,84 F,67 F,56 %,SSW,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+24,4:53 PM,83 F,67 F,58 %,SSW,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+25,5:53 PM,82 F,68 F,62 %,WSW,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018
+26,6:53 PM,81 F,68 F,65 %,WSW,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.82,-87.7,Brighton Park,KILCHICA225,9-2-2018

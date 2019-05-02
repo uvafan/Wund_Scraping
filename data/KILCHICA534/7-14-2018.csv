@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,80,85,104,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+1,Low Temp,73,68,52,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+2,Day Average Temp,77,76,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+3,Precipitation,0.23,0.13,1.52,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+4,Month to Date,0.91,1.7,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+5,Year to Date,20.77,20.25,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+6,Heating Degree Days,0,0,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+7,HDD Month to Date,0,0,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+8,HDD Since July 1,0,0,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+9,Cooling Degree Days,12,11,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+10,CDD Month to Date,200,152,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+11,CDD Year to Date,599,436,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+12,Growing Degree Days,26,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+13,Dew Point,70,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+14,High,72,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+15,Low,67,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+16,Average,70,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+17,Max Wind Speed,16,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+18,Visibility,10,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+19,Sea Level Pressure,30.07,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+20,Actual Time,14h 56m,5:29 AM,8:25 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+21,Civil Twilight,,4:55 AM,8:59 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+22,Nautical Twilight,,4:13 AM,9:41 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+23,Astronomical Twilight,,3:24 AM,10:30 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018
+24,Moon: waxing crescent,,7:13 AM,9:52 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,7-14-2018

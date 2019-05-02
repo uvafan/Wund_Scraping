@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,88,66,91,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+1,Low Temp,66,47,30,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+2,Day Average Temp,77,57,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+3,Precipitation,0.26,0.12,1.26,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+4,Month to Date,0.26,0.24,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+5,Year to Date,8.33,10.6,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+6,Heating Degree Days,0,9,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+7,HDD Month to Date,0,19,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+8,HDD Since July 1,5805,5790,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+9,Cooling Degree Days,12,1,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+10,CDD Month to Date,19,2,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+11,CDD Year to Date,19,15,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+12,Growing Degree Days,27,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+13,Dew Point,57,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+14,High,65,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+15,Low,49,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+16,Average,57,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+17,Max Wind Speed,44,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+18,Visibility,10,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+19,Sea Level Pressure,29.95,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+20,Actual Time,14h 3m,5:47 AM,7:50 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+21,Civil Twilight,,5:16 AM,8:21 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+22,Nautical Twilight,,4:39 AM,8:58 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+23,Astronomical Twilight,,3:58 AM,9:38 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018
+24,Moon: waning gibbous,,10:31 PM,7:42 AM,,41.72,-87.67,Beverly Hills,KILCHICA509,5-2-2018

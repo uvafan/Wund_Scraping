@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,61,46,74,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+1,Low Temp,41,30,11,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+2,Day Average Temp,51,38,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+3,Precipitation,0.47,0.08,1.02,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+4,Month to Date,0.84,1.09,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+5,Year to Date,3.75,5.09,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+6,Heating Degree Days,14,27,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+7,HDD Month to Date,472,383,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+8,HDD Since July 1,5103,4894,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+9,Cooling Degree Days,0,0,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+10,CDD Month to Date,0,0,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+11,CDD Year to Date,0,0,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+12,Growing Degree Days,1,-,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+13,Dew Point,41,-,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+14,High,49,-,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+15,Low,27,-,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+16,Average,41,-,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+17,Max Wind Speed,23,-,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+18,Visibility,10,-,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+19,Sea Level Pressure,30.03,-,-,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+20,Actual Time,11h 47m,7:07 AM,6:55 PM,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+21,Civil Twilight,,6:39 AM,7:23 PM,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+22,Nautical Twilight,,6:07 AM,7:55 PM,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+23,Astronomical Twilight,,5:34 AM,8:28 PM,,41.88,-87.68,United Center,KILCHICA498,3-13-2019
+24,Moon: waxing crescent,,11:05 AM,1:01 AM,,41.88,-87.68,United Center,KILCHICA498,3-13-2019

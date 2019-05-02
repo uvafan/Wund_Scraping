@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,62,70,92,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+1,Low Temp,47,52,29,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+2,Day Average Temp,55,61,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+3,Precipitation,0.05,0.1,3.65,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+4,Month to Date,2.29,3.12,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+5,Year to Date,28.09,29.67,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+6,Heating Degree Days,10,6,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+7,HDD Month to Date,29,68,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+8,HDD Since July 1,29,73,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+9,Cooling Degree Days,0,2,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+10,CDD Month to Date,205,117,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+11,CDD Year to Date,1370,1027,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+12,Growing Degree Days,5,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+13,Dew Point,45,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+14,High,48,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+15,Low,41,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+16,Average,45,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+17,Max Wind Speed,18,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+18,Visibility,10,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+19,Sea Level Pressure,30.28,-,-,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+20,Actual Time,11h 53m,6:45 AM,6:39 PM,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+21,Civil Twilight,,6:17 AM,7:07 PM,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+22,Nautical Twilight,,5:45 AM,7:39 PM,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+23,Astronomical Twilight,,5:12 AM,8:12 PM,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018
+24,Moon: waning gibbous,,8:58 PM,10:12 AM,,41.93,-87.65,Depaul Geography-Lincoln Park,KILCHICA52,9-28-2018

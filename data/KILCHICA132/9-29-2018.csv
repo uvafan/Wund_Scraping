@@ -1,0 +1,21 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,60.0,70,99,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+1,Low Temp,42.0,52,33,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+2,Day Average Temp,51.0,61,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+3,Precipitation,0.02,0.1,1.13,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+4,Month to Date,2.31,3.22,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+5,Year to Date,28.11,29.77,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+6,Heating Degree Days,14.0,6,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+7,HDD Month to Date,43.0,74,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+8,HDD Since July 1,43.0,79,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+9,Cooling Degree Days,0.0,2,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+10,CDD Month to Date,205.0,119,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+11,CDD Year to Date,1370.0,1029,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+12,Growing Degree Days,0.0,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+13,Dew Point,38.0,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+14,High,47.0,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+15,Low,32.0,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+16,Average,38.0,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+17,Max Wind Speed,15.0,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+18,Visibility,10.0,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018
+19,Sea Level Pressure,30.38,-,-,,41.88,-87.66,West Loop-Union Park,KILCHICA132,9-29-2018

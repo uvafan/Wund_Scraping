@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,40,57,78,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+1,Low Temp,32,39,21,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+2,Day Average Temp,36,48,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+3,Precipitation,0.03,0.12,1.58,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+4,Month to Date,0.19,1.04,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+5,Year to Date,6.83,7.76,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+6,Heating Degree Days,29,17,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+7,HDD Month to Date,284,169,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+8,HDD Since July 1,5415,5492,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+9,Cooling Degree Days,0,0,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+10,CDD Month to Date,0,0,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+11,CDD Year to Date,0,1,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+12,Growing Degree Days,0,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+13,Dew Point,30,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+14,High,31,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+15,Low,28,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+16,Average,30,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+17,Max Wind Speed,14,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+18,Visibility,10,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+19,Sea Level Pressure,30.3,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+20,Actual Time,13h 4m,6:21 AM,7:25 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+21,Civil Twilight,,5:52 AM,7:53 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+22,Nautical Twilight,,5:19 AM,8:27 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+23,Astronomical Twilight,,4:43 AM,9:03 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018
+24,Moon: waning crescent,,3:03 AM,1:01 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,4-9-2018

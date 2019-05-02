@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,54,32,67,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+1,Low Temp,29,0,-3,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+2,Day Average Temp,42,26,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+3,Precipitation,1e-16,0.08,1.82,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+4,Month to Date,1.84,2.35,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+5,Year to Date,38.37,38.87,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+6,Heating Degree Days,23,39,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+7,HDD Month to Date,844,998,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+8,HDD Since July 1,2167,2133,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+9,Cooling Degree Days,0,0,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+10,CDD Month to Date,0,0,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+11,CDD Year to Date,1408,1045,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+12,Growing Degree Days,0,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+13,Dew Point,32,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+14,High,50,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+15,Low,26,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+16,Average,32,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+17,Max Wind Speed,28,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+18,Visibility,10,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+19,Sea Level Pressure,30.18,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+20,Actual Time,9h 10m,7:18 AM,4:28 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+21,Civil Twilight,,6:46 AM,5:00 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+22,Nautical Twilight,,6:11 AM,5:35 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+23,Astronomical Twilight,,5:38 AM,6:08 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018
+24,Moon: waxing crescent,,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,12-28-2018

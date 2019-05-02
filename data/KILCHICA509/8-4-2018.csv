@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,96,83,100,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+1,Low Temp,73,67,52,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+2,Day Average Temp,85,75,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+3,Precipitation,0,0.14,2.17,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+4,Month to Date,0.04,0.56,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+5,Year to Date,21.84,23.12,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+6,Heating Degree Days,0,0,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+7,HDD Month to Date,0,0,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+8,HDD Since July 1,0,1,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+9,Cooling Degree Days,20,10,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+10,CDD Month to Date,56,40,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+11,CDD Year to Date,830,662,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+12,Growing Degree Days,34,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+13,Dew Point,66,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+14,High,70,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+15,Low,62,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+16,Average,66,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+17,Max Wind Speed,21,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+18,Visibility,10,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+19,Sea Level Pressure,30.03,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+20,Actual Time,14h 17m,5:49 AM,8:06 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+21,Civil Twilight,,5:18 AM,8:38 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+22,Nautical Twilight,,4:39 AM,9:16 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+23,Astronomical Twilight,,3:57 AM,9:58 PM,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018
+24,Moon: waxing crescent,,-,-,,41.72,-87.67,Beverly Hills,KILCHICA509,8-4-2018

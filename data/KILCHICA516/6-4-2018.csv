@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,80,76,97,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+1,Low Temp,55,58,35,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+2,Day Average Temp,68,67,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+3,Precipitation,0,0.15,1,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+4,Month to Date,0.54,0.59,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+5,Year to Date,12.8,15.08,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+6,Heating Degree Days,0,2,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+7,HDD Month to Date,1,10,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+8,HDD Since July 1,5884,5969,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+9,Cooling Degree Days,3,4,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+10,CDD Month to Date,10,12,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+11,CDD Year to Date,174,86,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+12,Growing Degree Days,18,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+13,Dew Point,48,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+14,High,52,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+15,Low,44,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+16,Average,48,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+17,Max Wind Speed,23,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+18,Visibility,10,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+19,Sea Level Pressure,30.03,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+20,Actual Time,15h 4m,5:18 AM,8:22 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+21,Civil Twilight,,4:44 AM,8:56 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+22,Nautical Twilight,,4:01 AM,9:39 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+23,Astronomical Twilight,,3:09 AM,10:30 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018
+24,Moon: waning gibbous,,12:16 AM,10:31 AM,,41.91,-87.64,Lincoln Park,KILCHICA516,6-4-2018

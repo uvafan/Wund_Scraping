@@ -1,0 +1,45 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:17 PM,33 F,33 F,100 %,NNE,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+1,7:53 PM,33 F,33 F,100 %,E,5 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+2,8:29 PM,34 F,34 F,100 %,E,3 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+3,8:53 PM,34 F,34 F,100 %,CALM,0 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+4,9:42 PM,34 F,34 F,100 %,CALM,0 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+5,9:53 PM,34 F,34 F,100 %,CALM,0 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+6,10:08 PM,34 F,34 F,100 %,CALM,0 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+7,10:20 PM,34 F,34 F,100 %,CALM,0 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+8,10:37 PM,34 F,34 F,100 %,CALM,0 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+9,10:53 PM,34 F,34 F,100 %,N,3 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+10,11:04 PM,34 F,34 F,100 %,CALM,0 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+11,11:53 PM,34 F,34 F,100 %,NNW,7 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+12,12:08 AM,34 F,34 F,100 %,NNW,7 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+13,12:33 AM,34 F,34 F,100 %,NW,6 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+14,12:53 AM,34 F,34 F,100 %,NW,5 mph,0 mph,29.2 in,0.0 in,0.3 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+15,1:23 AM,34 F,34 F,100 %,NW,6 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+16,1:36 AM,34 F,34 F,100 %,NW,5 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+17,1:53 AM,34 F,34 F,100 %,NW,6 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+18,2:19 AM,34 F,34 F,100 %,NNW,8 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+19,2:53 AM,34 F,34 F,100 %,NNW,6 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+20,3:07 AM,34 F,34 F,100 %,NNW,7 mph,0 mph,29.2 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+21,3:22 AM,34 F,34 F,100 %,NNW,8 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+22,3:53 AM,35 F,35 F,100 %,NNW,9 mph,0 mph,29.2 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+23,4:53 AM,36 F,33 F,89 %,NNW,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+24,5:53 AM,37 F,33 F,86 %,N,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+25,6:53 AM,37 F,34 F,89 %,N,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+26,7:53 AM,38 F,35 F,89 %,N,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+27,8:53 AM,38 F,34 F,86 %,NNE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+28,9:53 AM,37 F,34 F,89 %,NNE,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+29,10:53 AM,36 F,33 F,89 %,NNE,13 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+30,11:53 AM,35 F,32 F,89 %,NNE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+31,12:53 PM,35 F,31 F,85 %,NNE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+32,1:53 PM,34 F,31 F,89 %,NNE,12 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+33,2:23 PM,34 F,32 F,92 %,NE,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Rain with Thunder,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+34,2:44 PM,34 F,31 F,89 %,ENE,13 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+35,2:53 PM,34 F,32 F,92 %,ENE,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+36,3:26 PM,34 F,32 F,92 %,ENE,13 mph,23 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+37,3:53 PM,34 F,31 F,89 %,ENE,12 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+38,4:13 PM,34 F,31 F,89 %,ENE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+39,4:53 PM,34 F,32 F,92 %,ENE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+40,5:03 PM,34 F,32 F,92 %,ENE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+41,5:53 PM,34 F,33 F,96 %,E,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+42,6:22 PM,34 F,34 F,100 %,E,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Drizzle,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019
+43,6:53 PM,34 F,33 F,96 %,ENE,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.91,-87.64,Lincoln Park,KILCHICA516,2-6-2019

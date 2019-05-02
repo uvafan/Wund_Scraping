@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,49,39,66,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+1,Low Temp,35,24,0,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+2,Day Average Temp,42,31,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+3,Precipitation,0.44,0.09,0.9,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+4,Month to Date,1.82,1.52,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+5,Year to Date,2.92,3.58,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+6,Heating Degree Days,23,34,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+7,HDD Month to Date,842,850,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+8,HDD Since July 1,4420,4346,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+9,Cooling Degree Days,0,0,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+10,CDD Month to Date,0,0,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+11,CDD Year to Date,0,0,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+12,Growing Degree Days,0,-,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+13,Dew Point,36,-,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+14,High,48,-,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+15,Low,26,-,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+16,Average,36,-,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+17,Max Wind Speed,32,-,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+18,Visibility,18,-,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+19,Sea Level Pressure,30.23,-,-,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+20,Actual Time,10h 57m,6:37 AM,5:34 PM,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+21,Civil Twilight,,6:08 AM,6:02 PM,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+22,Nautical Twilight,,5:36 AM,6:35 PM,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+23,Astronomical Twilight,,5:04 AM,7:07 PM,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019
+24,Moon: waning gibbous,,11:37 PM,10:11 AM,,41.8,-87.75,JerComm WX,KILCHICA656,2-23-2019

@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,93,80,95,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+1,Low Temp,70,63,44,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+2,Day Average Temp,82,71,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+3,Precipitation,0.63,0.14,1.78,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+4,Month to Date,3.09,2.31,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+5,Year to Date,15.35,16.8,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+6,Heating Degree Days,0,1,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+7,HDD Month to Date,1,25,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+8,HDD Since July 1,5884,5984,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+9,Cooling Degree Days,17,7,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+10,CDD Month to Date,80,82,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+11,CDD Year to Date,244,156,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+12,Growing Degree Days,32,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+13,Dew Point,70,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+14,High,73,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+15,Low,66,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+16,Average,70,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+17,Max Wind Speed,26,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+18,Visibility,10,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+19,Sea Level Pressure,30.02,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+20,Actual Time,15h 11m,5:17 AM,8:28 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+21,Civil Twilight,,4:42 AM,9:02 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+22,Nautical Twilight,,3:58 AM,9:46 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+23,Astronomical Twilight,,3:06 AM,10:39 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018
+24,Moon: waxing crescent,,8:24 AM,11:16 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,6-16-2018

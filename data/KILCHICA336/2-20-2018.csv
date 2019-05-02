@@ -1,0 +1,21 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,66.0,37,69,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+1,Low Temp,34.0,23,-9,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+2,Day Average Temp,50.0,30,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+3,Precipitation,2.31,0.08,2.31,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+4,Month to Date,4.02,1.28,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+5,Year to Date,4.93,3.34,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+6,Heating Degree Days,15.0,35,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+7,HDD Month to Date,779.0,748,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+8,HDD Since July 1,4108.0,4244,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+9,Cooling Degree Days,0.0,0,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+10,CDD Month to Date,0.0,0,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+11,CDD Year to Date,0.0,0,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+12,Growing Degree Days,0.0,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+13,Dew Point,53.0,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+14,High,61.0,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+15,Low,33.0,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+16,Average,53.0,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+17,Max Wind Speed,25.0,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+18,Visibility,10.0,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018
+19,Sea Level Pressure,30.19,-,-,,41.94,-87.64,Chicago Yacht Belmont Harbor,KILCHICA336,2-20-2018

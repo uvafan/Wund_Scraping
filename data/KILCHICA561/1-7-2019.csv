@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,55,32,65,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+1,Low Temp,41,18,-14,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+2,Day Average Temp,48,25,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+3,Precipitation,0.38,0.08,0.69,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+4,Month to Date,0.38,0.54,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+5,Year to Date,0.38,0.54,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+6,Heating Degree Days,17,40,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+7,HDD Month to Date,189,279,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+8,HDD Since July 1,2457,2530,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+9,Cooling Degree Days,0,0,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+10,CDD Month to Date,0,0,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+11,CDD Year to Date,0,0,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+12,Growing Degree Days,0,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+13,Dew Point,44,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+14,High,52,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+15,Low,34,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+16,Average,44,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+17,Max Wind Speed,26,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+18,Visibility,10,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+19,Sea Level Pressure,30.01,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+20,Actual Time,9h 17m,7:19 AM,4:36 PM,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+21,Civil Twilight,,6:48 AM,5:07 PM,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+22,Nautical Twilight,,6:13 AM,5:42 PM,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+23,Astronomical Twilight,,5:39 AM,6:16 PM,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019
+24,Moon: waxing crescent,,9:25 AM,7:14 PM,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,1-7-2019

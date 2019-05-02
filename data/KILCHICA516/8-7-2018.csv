@@ -1,0 +1,33 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,75 F,70 F,84 %,W,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+1,8:53 PM,75 F,71 F,87 %,SSW,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+2,9:53 PM,73 F,70 F,90 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+3,10:53 PM,73 F,70 F,90 %,SW,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+4,11:53 PM,73 F,70 F,90 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+5,12:22 AM,72 F,69 F,91 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+6,12:35 AM,73 F,70 F,90 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+7,12:53 AM,72 F,70 F,93 %,WNW,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+8,1:53 AM,73 F,70 F,90 %,N,3 mph,0 mph,29.3 in,0.0 in,0.1 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+9,2:53 AM,76 F,69 F,79 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+10,3:53 AM,78 F,69 F,74 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+11,4:53 AM,80 F,68 F,67 %,SE,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+12,5:53 AM,81 F,68 F,65 %,VAR,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+13,6:53 AM,84 F,67 F,56 %,SSW,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+14,7:53 AM,85 F,66 F,53 %,W,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+15,8:53 AM,81 F,68 F,65 %,W,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Rain,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+16,9:53 AM,76 F,73 F,91 %,ESE,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Rain,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+17,10:09 AM,75 F,73 F,94 %,ESE,8 mph,0 mph,29.3 in,0.3 in,0.0 in,Heavy Rain,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+18,10:12 AM,74 F,73 F,97 %,ESE,10 mph,0 mph,29.3 in,0.4 in,0.0 in,Heavy Rain,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+19,10:18 AM,74 F,72 F,93 %,E,9 mph,0 mph,29.3 in,0.5 in,0.0 in,Heavy Rain,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+20,10:29 AM,74 F,72 F,93 %,VAR,3 mph,0 mph,29.3 in,0.5 in,0.0 in,Light Rain,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+21,10:45 AM,74 F,71 F,91 %,CALM,0 mph,0 mph,29.3 in,0.6 in,0.0 in,Light Rain,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+22,10:53 AM,75 F,72 F,90 %,SSW,3 mph,0 mph,29.3 in,0.6 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+23,11:33 AM,75 F,71 F,87 %,NW,10 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Rain,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+24,11:53 AM,74 F,72 F,93 %,NW,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+25,12:53 PM,74 F,71 F,91 %,NNE,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+26,1:53 PM,75 F,69 F,82 %,NE,9 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+27,2:53 PM,73 F,68 F,84 %,NNE,8 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+28,3:53 PM,73 F,68 F,84 %,E,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+29,4:53 PM,72 F,68 F,87 %,E,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+30,5:53 PM,72 F,69 F,91 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018
+31,6:53 PM,71 F,68 F,90 %,NNW,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy,41.91,-87.64,Lincoln Park,KILCHICA516,8-7-2018

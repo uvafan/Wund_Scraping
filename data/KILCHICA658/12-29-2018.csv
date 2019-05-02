@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,31,32,64,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+1,Low Temp,24,20,-8,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+2,Day Average Temp,28,26,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+3,Precipitation,0.01,0.07,0.78,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+4,Month to Date,1.85,2.42,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+5,Year to Date,38.38,38.94,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+6,Heating Degree Days,37,39,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+7,HDD Month to Date,881,1037,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+8,HDD Since July 1,2204,2172,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+9,Cooling Degree Days,0,0,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+10,CDD Month to Date,0,0,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+11,CDD Year to Date,1408,1045,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+12,Growing Degree Days,0,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+13,Dew Point,25,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+14,High,28,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+15,Low,18,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+16,Average,25,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+17,Max Wind Speed,22,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+18,Visibility,10,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+19,Sea Level Pressure,30.37,-,-,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+20,Actual Time,9h 9m,7:18 AM,4:28 PM,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+21,Civil Twilight,,6:47 AM,5:00 PM,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+22,Nautical Twilight,,6:12 AM,5:35 PM,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+23,Astronomical Twilight,,5:38 AM,6:09 PM,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018
+24,Moon: waning gibbous,,12:39 AM,1:10 PM,,41.87,-87.63,Troposphere Group Chicago,KILCHICA658,12-29-2018

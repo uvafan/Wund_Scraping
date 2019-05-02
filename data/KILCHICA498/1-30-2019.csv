@@ -1,0 +1,26 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,-10 F,-21 F,59 %,WNW,20 mph,29 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+1,8:22 PM,-12 F,-25 F,52 %,WNW,21 mph,31 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy / Windy,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+2,8:53 PM,-14 F,-29 F,47 %,W,21 mph,31 mph,29.4 in,0.0 in,0.0 in,Fair / Windy,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+3,9:53 PM,-17 F,-29 F,54 %,WNW,18 mph,31 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+4,10:53 PM,-18 F,-29 F,57 %,W,20 mph,28 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+5,11:53 PM,-19 F,-30 F,57 %,WNW,21 mph,29 mph,29.5 in,0.0 in,0.0 in,Fair / Windy,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+6,12:53 AM,-20 F,-31 F,57 %,W,17 mph,29 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+7,1:53 AM,-21 F,-32 F,56 %,W,22 mph,32 mph,29.5 in,0.0 in,0.0 in,Fair / Windy,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+8,2:53 AM,-21 F,-32 F,56 %,W,16 mph,28 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+9,3:53 AM,-21 F,-32 F,56 %,W,16 mph,29 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+10,4:53 AM,-19 F,-30 F,57 %,W,15 mph,26 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+11,5:53 AM,-18 F,-29 F,57 %,W,18 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+12,6:53 AM,-17 F,-28 F,58 %,WSW,20 mph,29 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+13,7:53 AM,-15 F,-26 F,58 %,W,21 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair / Windy,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+14,8:53 AM,-13 F,-24 F,58 %,W,17 mph,25 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+15,9:53 AM,-13 F,-23 F,61 %,WSW,15 mph,24 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+16,10:53 AM,-13 F,-23 F,61 %,WSW,20 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+17,11:53 AM,-13 F,-23 F,61 %,WSW,17 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+18,12:53 PM,-13 F,-23 F,61 %,W,14 mph,23 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+19,1:53 PM,-14 F,-23 F,64 %,W,12 mph,21 mph,29.7 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+20,2:53 PM,-14 F,-24 F,61 %,W,14 mph,25 mph,29.7 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+21,3:53 PM,-14 F,-24 F,61 %,W,14 mph,24 mph,29.7 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+22,4:53 PM,-15 F,-24 F,64 %,W,12 mph,21 mph,29.7 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+23,5:53 PM,-15 F,-25 F,61 %,W,13 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019
+24,6:53 PM,-16 F,-25 F,64 %,W,14 mph,0 mph,29.7 in,0.0 in,0.0 in,Fair,41.88,-87.68,United Center,KILCHICA498,1-30-2019

@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,43,50,79,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+1,Low Temp,31,33,6,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+2,Day Average Temp,37,41,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+3,Precipitation,0,0.09,0.93,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+4,Month to Date,0.79,1.97,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+5,Year to Date,6.08,5.97,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+6,Heating Degree Days,28,24,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+7,HDD Month to Date,662,636,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+8,HDD Since July 1,4953,5147,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+9,Cooling Degree Days,0,0,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+10,CDD Month to Date,0,0,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+11,CDD Year to Date,0,0,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+12,Growing Degree Days,0,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+13,Dew Point,23,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+14,High,28,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+15,Low,18,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+16,Average,23,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+17,Max Wind Speed,18,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+18,Visibility,10,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+19,Sea Level Pressure,30.4,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+20,Actual Time,12h 16m,6:50 AM,7:07 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+21,Civil Twilight,,6:22 AM,7:34 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+22,Nautical Twilight,,5:49 AM,8:07 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+23,Astronomical Twilight,,5:16 AM,8:40 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018
+24,Moon: waxing crescent,,10:54 AM,12:48 AM,,41.72,-87.71,Evergreen Park,KILEVERG5,3-23-2018

@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,34,33,59,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+1,Low Temp,24,21,-20,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+2,Day Average Temp,29,27,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+3,Precipitation,0,0.07,2.61,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+4,Month to Date,1.31,2.05,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+5,Year to Date,37.84,38.57,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+6,Heating Degree Days,36,38,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+7,HDD Month to Date,751,843,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+8,HDD Since July 1,2074,1978,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+9,Cooling Degree Days,0,0,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+10,CDD Month to Date,0,0,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+11,CDD Year to Date,1408,1045,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+12,Growing Degree Days,0,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+13,Dew Point,17,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+14,High,22,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+15,Low,14,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+16,Average,17,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+17,Max Wind Speed,20,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+18,Visibility,10,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+19,Sea Level Pressure,30.31,-,-,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+20,Actual Time,9h 8m,7:17 AM,4:25 PM,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+21,Civil Twilight,,6:46 AM,4:57 PM,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+22,Nautical Twilight,,6:10 AM,5:32 PM,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+23,Astronomical Twilight,,5:36 AM,6:06 PM,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018
+24,Moon: waning gibbous,,7:52 PM,10:00 AM,,41.81,-87.73,Archer Heights,KILCHICA654,12-24-2018

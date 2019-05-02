@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,85,76,101,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+1,Low Temp,62,58,42,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+2,Day Average Temp,74,67,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+3,Precipitation,0,0.11,2.19,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+4,Month to Date,1.48,1.59,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+5,Year to Date,27.28,28.14,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+6,Heating Degree Days,0,2,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+7,HDD Month to Date,0,17,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+8,HDD Since July 1,0,22,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+9,Cooling Degree Days,9,4,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+10,CDD Month to Date,118,80,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+11,CDD Year to Date,1283,990,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+12,Growing Degree Days,23,-,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+13,Dew Point,60,-,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+14,High,62,-,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+15,Low,58,-,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+16,Average,60,-,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+17,Max Wind Speed,15,-,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+18,Visibility,10,-,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+19,Sea Level Pressure,30.15,-,-,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+20,Actual Time,12h 33m,6:31 AM,7:04 PM,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+21,Civil Twilight,,6:03 AM,7:32 PM,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+22,Nautical Twilight,,5:29 AM,8:05 PM,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+23,Astronomical Twilight,,4:55 AM,8:39 PM,,41.89,-87.65,West Town,KILCHICA588,9-14-2018
+24,Moon: waxing crescent,,11:49 AM,10:15 PM,,41.89,-87.65,West Town,KILCHICA588,9-14-2018

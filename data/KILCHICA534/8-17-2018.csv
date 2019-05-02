@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,85,82,99,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+1,Low Temp,69,67,48,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+2,Day Average Temp,77,74,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+3,Precipitation,0.17,0.13,2.6,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+4,Month to Date,1.24,2.28,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+5,Year to Date,23.04,24.84,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+6,Heating Degree Days,0,0,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+7,HDD Month to Date,0,0,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+8,HDD Since July 1,0,1,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+9,Cooling Degree Days,12,9,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+10,CDD Month to Date,240,168,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+11,CDD Year to Date,1014,790,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+12,Growing Degree Days,26,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+13,Dew Point,69,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+14,High,72,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+15,Low,66,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+16,Average,69,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+17,Max Wind Speed,15,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+18,Visibility,10,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+19,Sea Level Pressure,29.97,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+20,Actual Time,13h 47m,6:02 AM,7:49 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+21,Civil Twilight,,5:32 AM,8:19 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+22,Nautical Twilight,,4:56 AM,8:55 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+23,Astronomical Twilight,,4:17 AM,9:34 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018
+24,Moon: waxing crescent,,1:00 PM,11:43 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,8-17-2018

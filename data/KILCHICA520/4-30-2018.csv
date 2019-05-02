@@ -1,0 +1,25 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,45 F,14 F,29 %,SSE,5 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+1,8:53 PM,44 F,11 F,26 %,S,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+2,9:53 PM,44 F,12 F,27 %,SSE,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+3,10:53 PM,43 F,17 F,35 %,S,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+4,11:53 PM,43 F,18 F,37 %,S,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+5,12:53 AM,42 F,19 F,40 %,S,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+6,1:53 AM,45 F,20 F,37 %,S,6 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+7,2:53 AM,50 F,22 F,33 %,S,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+8,3:53 AM,59 F,22 F,24 %,SSW,16 mph,22 mph,29.6 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+9,4:53 AM,62 F,22 F,21 %,SSW,17 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+10,5:53 AM,66 F,24 F,20 %,SW,17 mph,24 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+11,6:53 AM,70 F,26 F,19 %,SW,18 mph,26 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+12,7:53 AM,73 F,27 F,18 %,SSW,17 mph,28 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+13,8:53 AM,75 F,25 F,16 %,SSW,13 mph,25 mph,29.4 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+14,9:53 AM,78 F,23 F,13 %,SW,14 mph,28 mph,29.4 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+15,10:53 AM,79 F,25 F,14 %,S,15 mph,0 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+16,11:53 AM,80 F,27 F,14 %,SSW,17 mph,26 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+17,12:53 PM,79 F,27 F,15 %,SSW,16 mph,26 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+18,1:53 PM,78 F,28 F,16 %,S,15 mph,0 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+19,2:53 PM,75 F,28 F,18 %,S,13 mph,26 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+20,3:53 PM,72 F,29 F,20 %,S,12 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+21,4:53 PM,69 F,29 F,22 %,S,16 mph,23 mph,29.3 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+22,5:53 PM,67 F,29 F,24 %,SSW,20 mph,28 mph,29.3 in,0.0 in,0.0 in,Fair,41.88,-87.65,West Loop,KILCHICA520,4-30-2018
+23,6:53 PM,65 F,31 F,28 %,SSW,14 mph,23 mph,29.3 in,0.0 in,0.0 in,Partly Cloudy,41.88,-87.65,West Loop,KILCHICA520,4-30-2018

@@ -1,0 +1,24 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,33 F,26 F,75 %,ENE,9 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+1,8:53 PM,33 F,27 F,78 %,ENE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+2,9:53 PM,32 F,26 F,79 %,ENE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+3,10:53 PM,32 F,27 F,82 %,ENE,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+4,11:53 PM,32 F,27 F,82 %,E,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+5,12:53 AM,31 F,26 F,82 %,ENE,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+6,1:53 AM,33 F,27 F,78 %,ENE,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+7,3:53 AM,35 F,24 F,64 %,E,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+8,4:53 AM,37 F,22 F,54 %,ENE,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+9,5:53 AM,38 F,21 F,51 %,NNE,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+10,6:53 AM,39 F,21 F,49 %,NE,14 mph,0 mph,29.6 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+11,7:53 AM,39 F,22 F,50 %,ENE,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+12,8:53 AM,39 F,22 F,50 %,ENE,9 mph,22 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+13,9:53 AM,39 F,20 F,46 %,NE,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+14,10:53 AM,38 F,19 F,47 %,NE,16 mph,0 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+15,11:53 AM,38 F,18 F,44 %,NNE,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+16,12:53 PM,37 F,17 F,44 %,NE,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+17,1:53 PM,35 F,18 F,50 %,NNE,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+18,2:53 PM,34 F,19 F,54 %,NNE,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+19,3:53 PM,34 F,20 F,56 %,N,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+20,4:53 PM,34 F,20 F,56 %,CALM,0 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+21,5:53 PM,31 F,20 F,64 %,CALM,0 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018
+22,6:53 PM,31 F,21 F,67 %,CALM,0 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,3-11-2018

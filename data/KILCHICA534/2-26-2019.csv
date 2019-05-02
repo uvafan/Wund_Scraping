@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,25,40,64,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+1,Low Temp,18,25,-1,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+2,Day Average Temp,22,32,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+3,Precipitation,1e-16,0.08,1.76,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+4,Month to Date,1.83,1.77,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+5,Year to Date,2.93,3.83,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+6,Heating Degree Days,43,33,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+7,HDD Month to Date,969,949,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+8,HDD Since July 1,4547,4445,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+9,Cooling Degree Days,0,0,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+10,CDD Month to Date,0,0,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+11,CDD Year to Date,0,0,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+12,Growing Degree Days,0,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+13,Dew Point,12,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+14,High,17,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+15,Low,2,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+16,Average,12,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+17,Max Wind Speed,20,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+18,Visibility,10,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+19,Sea Level Pressure,30.56,-,-,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+20,Actual Time,11h 5m,6:32 AM,5:37 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+21,Civil Twilight,,6:03 AM,6:05 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+22,Nautical Twilight,,5:31 AM,6:38 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+23,Astronomical Twilight,,4:59 AM,7:10 PM,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019
+24,Moon: waning gibbous,,1:48 AM,11:53 AM,,41.83,-87.63,Ilinois Tech,KILCHICA534,2-26-2019

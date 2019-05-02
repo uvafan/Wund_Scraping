@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,36,31,58,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+1,Low Temp,29,18,-17,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+2,Day Average Temp,33,25,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+3,Precipitation,1e-16,0.07,0.68,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+4,Month to Date,0.45,1.24,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+5,Year to Date,0.45,1.24,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+6,Heating Degree Days,32,40,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+7,HDD Month to Date,553,679,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+8,HDD Since July 1,2821,2930,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+9,Cooling Degree Days,0,0,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+10,CDD Month to Date,0,0,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+11,CDD Year to Date,0,0,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+12,Growing Degree Days,0,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+13,Dew Point,27,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+14,High,30,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+15,Low,22,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+16,Average,27,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+17,Max Wind Speed,13,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+18,Visibility,10,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+19,Sea Level Pressure,30.25,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+20,Actual Time,9h 31m,7:16 AM,4:47 PM,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+21,Civil Twilight,,6:45 AM,5:17 PM,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+22,Nautical Twilight,,6:11 AM,5:52 PM,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+23,Astronomical Twilight,,5:37 AM,6:25 PM,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019
+24,Moon: waxing gibbous,,2:33 PM,4:21 AM,,41.89,-87.62,Lakeshore East,KILCHICA609,1-17-2019

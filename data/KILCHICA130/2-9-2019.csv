@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,26,34,57,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+1,Low Temp,7,20,-20,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+2,Day Average Temp,17,27,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+3,Precipitation,1e-16,0.06,0.77,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+4,Month to Date,0.74,0.52,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+5,Year to Date,1.84,2.58,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+6,Heating Degree Days,48,38,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+7,HDD Month to Date,337,349,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+8,HDD Since July 1,3915,3845,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+9,Cooling Degree Days,0,0,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+10,CDD Month to Date,0,0,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+11,CDD Year to Date,0,0,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+12,Growing Degree Days,0,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+13,Dew Point,6,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+14,High,15,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+15,Low,-3,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+16,Average,6,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+17,Max Wind Speed,14,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+18,Visibility,10,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+19,Sea Level Pressure,30.96,-,-,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+20,Actual Time,10h 20m,6:55 AM,5:16 PM,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+21,Civil Twilight,,6:26 AM,5:45 PM,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+22,Nautical Twilight,,5:53 AM,6:18 PM,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+23,Astronomical Twilight,,5:21 AM,6:50 PM,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019
+24,Moon: waxing crescent,,10:26 AM,10:57 PM,,41.88,-87.64,West Loop-Old St.Pats,KILCHICA130,2-9-2019

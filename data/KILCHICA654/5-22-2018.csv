@@ -1,0 +1,35 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,57 F,57 F,100 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+1,8:53 PM,57 F,57 F,100 %,NE,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+2,9:39 PM,57 F,56 F,96 %,S,6 mph,0 mph,29.3 in,0.0 in,0.0 in,Light Rain,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+3,9:53 PM,57 F,57 F,100 %,E,3 mph,0 mph,29.3 in,0.1 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+4,10:51 PM,57 F,55 F,94 %,N,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+5,10:53 PM,57 F,56 F,96 %,N,7 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+6,11:53 PM,56 F,56 F,100 %,N,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+7,12:53 AM,56 F,56 F,100 %,NNW,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+8,1:12 AM,57 F,56 F,96 %,N,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+9,1:21 AM,56 F,56 F,100 %,N,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+10,1:28 AM,57 F,56 F,96 %,N,5 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+11,1:53 AM,57 F,57 F,100 %,CALM,0 mph,0 mph,29.3 in,0.0 in,1.2 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+12,2:15 AM,57 F,57 F,100 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+13,2:24 AM,58 F,57 F,97 %,NNE,3 mph,0 mph,29.3 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+14,2:53 AM,58 F,57 F,97 %,NNE,5 mph,0 mph,29.4 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+15,3:31 AM,58 F,57 F,97 %,ENE,3 mph,0 mph,29.4 in,0.0 in,0.0 in,Fog,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+16,3:53 AM,59 F,57 F,93 %,NE,5 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+17,4:53 AM,59 F,57 F,93 %,CALM,0 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+18,5:53 AM,62 F,58 F,86 %,CALM,0 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+19,6:18 AM,63 F,59 F,87 %,CALM,0 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+20,6:53 AM,66 F,60 F,81 %,NNW,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+21,7:21 AM,66 F,60 F,81 %,N,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+22,7:53 AM,63 F,55 F,75 %,E,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+23,8:53 AM,62 F,55 F,78 %,NNE,9 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+24,9:53 AM,64 F,56 F,75 %,VAR,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+25,10:53 AM,63 F,54 F,72 %,E,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+26,11:53 AM,62 F,54 F,75 %,E,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+27,12:53 PM,61 F,53 F,75 %,ENE,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+28,1:53 PM,60 F,53 F,78 %,ESE,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+29,2:53 PM,58 F,51 F,78 %,ENE,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+30,3:53 PM,55 F,51 F,86 %,E,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+31,4:53 PM,55 F,51 F,86 %,ESE,5 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+32,5:53 PM,54 F,50 F,86 %,SE,3 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018
+33,6:53 PM,54 F,50 F,86 %,SE,3 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair,41.81,-87.73,Archer Heights,KILCHICA654,5-22-2018

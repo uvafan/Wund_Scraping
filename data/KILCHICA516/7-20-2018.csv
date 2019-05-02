@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,80,84,103,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+1,Low Temp,70,68,50,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+2,Day Average Temp,75,76,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+3,Precipitation,0.51,0.13,3.03,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+4,Month to Date,1.6,2.47,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+5,Year to Date,21.46,21.02,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+6,Heating Degree Days,0,0,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+7,HDD Month to Date,0,0,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+8,HDD Since July 1,0,0,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+9,Cooling Degree Days,10,11,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+10,CDD Month to Date,277,218,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+11,CDD Year to Date,676,502,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+12,Growing Degree Days,24,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+13,Dew Point,68,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+14,High,72,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+15,Low,65,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+16,Average,68,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+17,Max Wind Speed,22,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+18,Visibility,10,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+19,Sea Level Pressure,29.72,-,-,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+20,Actual Time,14h 48m,5:33 AM,8:22 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+21,Civil Twilight,,5:01 AM,8:54 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+22,Nautical Twilight,,4:19 AM,9:36 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+23,Astronomical Twilight,,3:32 AM,10:23 PM,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018
+24,Moon: waxing gibbous,,2:08 PM,12:39 AM,,41.91,-87.64,Lincoln Park,KILCHICA516,7-20-2018

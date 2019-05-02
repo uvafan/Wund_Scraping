@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,82,83,99,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+1,Low Temp,65,65,48,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+2,Day Average Temp,74,74,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+3,Precipitation,0,0.13,2.31,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+4,Month to Date,6.6,3.36,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+5,Year to Date,18.86,17.85,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+6,Heating Degree Days,0,0,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+7,HDD Month to Date,3,29,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+8,HDD Since July 1,5886,5988,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+9,Cooling Degree Days,9,9,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+10,CDD Month to Date,154,148,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+11,CDD Year to Date,318,222,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+12,Growing Degree Days,24,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+13,Dew Point,63,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+14,High,66,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+15,Low,60,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+16,Average,63,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+17,Max Wind Speed,21,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+18,Visibility,10,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+19,Sea Level Pressure,30.05,-,-,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+20,Actual Time,15h 12m,5:17 AM,8:30 PM,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+21,Civil Twilight,,4:43 AM,9:05 PM,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+22,Nautical Twilight,,3:59 AM,9:49 PM,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+23,Astronomical Twilight,,3:06 AM,10:42 PM,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018
+24,Moon: waxing gibbous,,5:17 PM,3:07 AM,,41.82,-87.7,Brighton Park,KILCHICA225,6-24-2018

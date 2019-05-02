@@ -1,0 +1,21 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,83.0,73,95,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+1,Low Temp,58.0,55,40,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+2,Day Average Temp,71.0,64,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+3,Precipitation,1e-16,0.11,1.67,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+4,Month to Date,1.48,2.37,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+5,Year to Date,27.28,28.92,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+6,Heating Degree Days,0.0,3,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+7,HDD Month to Date,0.0,35,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+8,HDD Since July 1,0.0,40,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+9,Cooling Degree Days,6.0,3,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+10,CDD Month to Date,196.0,103,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+11,CDD Year to Date,1361.0,1013,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+12,Growing Degree Days,20.0,-,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+13,Dew Point,56.0,-,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+14,High,68.0,-,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+15,Low,41.0,-,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+16,Average,56.0,-,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+17,Max Wind Speed,28.0,-,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+18,Visibility,10.0,-,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018
+19,Sea Level Pressure,30.25,-,-,,41.88,-87.68,United Center,KILCHICA498,9-21-2018

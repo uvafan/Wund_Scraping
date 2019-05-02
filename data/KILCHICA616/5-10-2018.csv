@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,73,68,91,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+1,Low Temp,53,50,29,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+2,Day Average Temp,63,59,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+3,Precipitation,0,0.12,2.84,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+4,Month to Date,0.66,1.23,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+5,Year to Date,8.73,11.59,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+6,Heating Degree Days,2,7,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+7,HDD Month to Date,9,84,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+8,HDD Since July 1,5814,5855,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+9,Cooling Degree Days,0,1,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+10,CDD Month to Date,40,10,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+11,CDD Year to Date,40,23,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+12,Growing Degree Days,14,-,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+13,Dew Point,53,-,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+14,High,55,-,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+15,Low,47,-,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+16,Average,53,-,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+17,Max Wind Speed,18,-,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+18,Visibility,10,-,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+19,Sea Level Pressure,30.02,-,-,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+20,Actual Time,14h 22m,5:37 AM,7:59 PM,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+21,Civil Twilight,,5:05 AM,8:31 PM,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+22,Nautical Twilight,,4:26 AM,9:09 PM,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+23,Astronomical Twilight,,3:43 AM,9:53 PM,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018
+24,Moon: waning crescent,,3:20 AM,2:43 PM,,41.91,-87.68,Wicker Park,KILCHICA616,5-10-2018

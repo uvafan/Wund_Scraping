@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,40,34,62,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+1,Low Temp,31,21,-13,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+2,Day Average Temp,36,27,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+3,Precipitation,0.04,0.07,1.81,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+4,Month to Date,1.31,1.82,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+5,Year to Date,37.84,38.34,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+6,Heating Degree Days,29,38,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+7,HDD Month to Date,653,729,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+8,HDD Since July 1,1976,1864,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+9,Cooling Degree Days,0,0,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+10,CDD Month to Date,0,0,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+11,CDD Year to Date,1408,1045,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+12,Growing Degree Days,0,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+13,Dew Point,29,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+14,High,38,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+15,Low,24,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+16,Average,29,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+17,Max Wind Speed,23,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+18,Visibility,10,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+19,Sea Level Pressure,29.85,-,-,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+20,Actual Time,9h 7m,7:16 AM,4:23 PM,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+21,Civil Twilight,,6:44 AM,4:55 PM,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+22,Nautical Twilight,,6:09 AM,5:30 PM,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+23,Astronomical Twilight,,5:35 AM,6:04 PM,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018
+24,Moon: waxing gibbous,,4:46 PM,6:46 AM,,41.89,-87.62,Lakeshore East,KILCHICA609,12-21-2018

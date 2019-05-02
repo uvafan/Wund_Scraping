@@ -1,0 +1,24 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,37 F,33 F,86 %,WSW,23 mph,41 mph,28.8 in,0.0 in,0.0 in,Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+1,8:53 PM,36 F,32 F,86 %,W,24 mph,43 mph,28.9 in,0.0 in,0.0 in,Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+2,9:53 PM,37 F,32 F,82 %,W,30 mph,43 mph,28.9 in,0.0 in,0.0 in,Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+3,10:53 PM,37 F,32 F,82 %,W,23 mph,35 mph,28.9 in,0.0 in,0.0 in,Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+4,11:53 PM,37 F,32 F,82 %,W,20 mph,36 mph,29.0 in,0.0 in,0.0 in,Cloudy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+5,12:53 AM,37 F,31 F,79 %,W,21 mph,31 mph,29.0 in,0.0 in,0.4 in,Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+6,1:53 AM,37 F,30 F,76 %,W,25 mph,35 mph,29.1 in,0.0 in,0.0 in,Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+7,3:53 AM,36 F,28 F,73 %,W,24 mph,33 mph,29.1 in,0.0 in,0.0 in,Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+8,4:53 AM,35 F,28 F,76 %,W,23 mph,37 mph,29.2 in,0.0 in,0.0 in,Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+9,5:53 AM,36 F,27 F,70 %,W,21 mph,37 mph,29.2 in,0.0 in,0.0 in,Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+10,6:53 AM,36 F,27 F,70 %,W,25 mph,39 mph,29.3 in,0.0 in,0.0 in,Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+11,7:53 AM,35 F,27 F,72 %,WSW,28 mph,38 mph,29.3 in,0.0 in,0.0 in,Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+12,8:53 AM,36 F,27 F,70 %,W,25 mph,39 mph,29.3 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+13,9:53 AM,37 F,27 F,67 %,W,23 mph,40 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+14,10:53 AM,38 F,28 F,68 %,W,22 mph,40 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+15,11:53 AM,38 F,28 F,68 %,W,22 mph,35 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+16,12:53 PM,38 F,28 F,68 %,W,23 mph,35 mph,29.4 in,0.0 in,0.0 in,Partly Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+17,1:53 PM,36 F,27 F,70 %,W,23 mph,32 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy / Windy,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+18,2:53 PM,34 F,25 F,70 %,W,17 mph,31 mph,29.5 in,0.0 in,0.0 in,Fair,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+19,3:53 PM,32 F,21 F,64 %,W,15 mph,25 mph,29.5 in,0.0 in,0.0 in,Fair,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+20,4:53 PM,32 F,22 F,66 %,WSW,14 mph,21 mph,29.5 in,0.0 in,0.0 in,Fair,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+21,5:53 PM,31 F,21 F,67 %,W,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019
+22,6:53 PM,31 F,20 F,64 %,W,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,3-10-2019

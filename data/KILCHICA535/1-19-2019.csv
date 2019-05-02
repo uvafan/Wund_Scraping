@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,29,31,57,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+1,Low Temp,15,18,-21,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+2,Day Average Temp,22,25,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+3,Precipitation,0.04,0.07,1.09,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+4,Month to Date,0.49,1.37,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+5,Year to Date,0.49,1.37,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+6,Heating Degree Days,43,40,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+7,HDD Month to Date,630,759,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+8,HDD Since July 1,2898,3010,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+9,Cooling Degree Days,0,0,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+10,CDD Month to Date,0,0,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+11,CDD Year to Date,0,0,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+12,Growing Degree Days,0,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+13,Dew Point,21,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+14,High,27,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+15,Low,8,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+16,Average,21,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+17,Max Wind Speed,29,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+18,Visibility,10,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+19,Sea Level Pressure,30.13,-,-,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+20,Actual Time,9h 34m,7:15 AM,4:49 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+21,Civil Twilight,,6:44 AM,5:20 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+22,Nautical Twilight,,6:10 AM,5:54 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+23,Astronomical Twilight,,5:37 AM,6:27 PM,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019
+24,Moon: waxing gibbous,,4:19 PM,6:38 AM,,41.89,-87.69,Ukranian Village,KILCHICA535,1-19-2019

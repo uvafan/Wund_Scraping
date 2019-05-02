@@ -1,0 +1,21 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,41.0,35,60,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+1,Low Temp,26.0,22,-7,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+2,Day Average Temp,34.0,28,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+3,Precipitation,0.0,0.08,0.44,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+4,Month to Date,1.25,1.52,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+5,Year to Date,37.78,38.04,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+6,Heating Degree Days,31.0,37,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+7,HDD Month to Date,547.0,580,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+8,HDD Since July 1,1870.0,1715,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+9,Cooling Degree Days,0.0,0,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+10,CDD Month to Date,0.0,0,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+11,CDD Year to Date,1408.0,1045,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+12,Growing Degree Days,0.0,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+13,Dew Point,23.0,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+14,High,29.0,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+15,Low,20.0,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+16,Average,23.0,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+17,Max Wind Speed,16.0,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+18,Visibility,10.0,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018
+19,Sea Level Pressure,30.28,-,-,,41.84,-87.65,Bridgeport-Union Lofts,KILCHICA561,12-17-2018

@@ -1,0 +1,26 @@
+,Temperature (° F),Actual,Historic Avg.,Record,Unnamed: 4,lat,lon,station_name,station_id,date
+0,High Temp,52,56,81,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+1,Low Temp,46,41,22,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+2,Day Average Temp,49,48,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+3,Precipitation,0,0.12,2.45,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+4,Month to Date,0,0.12,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+5,Year to Date,34.38,33.22,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+6,Heating Degree Days,16,17,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+7,HDD Month to Date,16,17,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+8,HDD Since July 1,455,448,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+9,Cooling Degree Days,0,0,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+10,CDD Month to Date,0,0,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+11,CDD Year to Date,1408,1045,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+12,Growing Degree Days,0,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+13,Dew Point,36,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+14,High,40,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+15,Low,35,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+16,Average,36,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+17,Max Wind Speed,23,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+18,Visibility,10,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+19,Sea Level Pressure,29.94,-,-,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+20,Actual Time,10h 22m,7:24 AM,5:47 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+21,Civil Twilight,,6:55 AM,6:16 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+22,Nautical Twilight,,6:22 AM,6:48 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+23,Astronomical Twilight,,5:50 AM,7:21 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018
+24,Moon: waning crescent,,12:19 AM,2:51 PM,,41.72,-87.71,Evergreen Park,KILEVERG5,11-1-2018

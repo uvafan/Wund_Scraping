@@ -1,0 +1,29 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition,lat,lon,station_name,station_id,date
+0,7:53 PM,25 F,15 F,66 %,ENE,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+1,8:53 PM,25 F,16 F,69 %,E,7 mph,0 mph,29.6 in,0.0 in,0.0 in,Light Snow,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+2,9:53 PM,25 F,16 F,69 %,E,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+3,10:53 PM,25 F,17 F,72 %,E,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+4,11:53 PM,25 F,18 F,75 %,E,7 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+5,12:53 AM,26 F,18 F,71 %,E,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+6,1:53 AM,26 F,18 F,71 %,NE,5 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+7,2:03 AM,26 F,19 F,75 %,E,3 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+8,2:53 AM,27 F,19 F,72 %,CALM,0 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+9,3:53 AM,27 F,19 F,72 %,CALM,0 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+10,4:53 AM,29 F,20 F,69 %,W,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+11,5:53 AM,29 F,20 F,69 %,NW,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+12,6:53 AM,29 F,21 F,72 %,NW,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+13,7:53 AM,28 F,20 F,72 %,NW,14 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+14,8:32 AM,29 F,19 F,67 %,WNW,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+15,8:53 AM,31 F,20 F,64 %,W,9 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+16,9:28 AM,31 F,19 F,61 %,WNW,9 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+17,9:53 AM,30 F,17 F,59 %,WNW,14 mph,0 mph,29.4 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+18,10:53 AM,29 F,16 F,58 %,WNW,13 mph,22 mph,29.5 in,0.0 in,0.0 in,Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+19,11:53 AM,26 F,15 F,63 %,NW,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+20,12:53 PM,25 F,14 F,63 %,NW,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+21,1:53 PM,24 F,12 F,60 %,NNW,17 mph,23 mph,29.5 in,0.0 in,0.0 in,Mostly Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+22,2:23 PM,22 F,10 F,60 %,NW,14 mph,22 mph,29.5 in,0.0 in,0.0 in,Partly Cloudy,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+23,2:53 PM,21 F,9 F,60 %,NW,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+24,3:53 PM,20 F,9 F,62 %,NNW,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+25,4:53 PM,19 F,7 F,59 %,NNW,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+26,5:53 PM,18 F,6 F,60 %,NNW,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
+27,6:53 PM,17 F,5 F,59 %,N,13 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair,41.89,-87.62,Lakeshore East,KILCHICA609,2-27-2019
